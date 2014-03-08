@@ -1,0 +1,43 @@
+.header {
+  padding: 0;
+  border-bottom: 1px solid $grey-lt;
+}
+
+.logo {
+  margin: 0 auto 0 -20px;
+}
+
+.nav {
+list-style-type: none;
+padding: 0;
+float: right;
+margin-top: 30px;
+margin-right: -20px;
+}
+.navmenu {
+  float: left;
+  display: inline-block;
+  margin-bottom: 0;
+  text-align: center;
+}
+.navlinks {
+  display: inline-block;
+  padding: 10px 28px;
+  color: $grey-md;
+  font-weight: 500;
+  text-transform: uppercase;
+  &:hover {
+    text-decoration: none;
+    color: darken($grey-md, 30%);
+  }
+}
+
+@include media-query(medium) {
+  .header {
+    border: none;
+    padding-top: 20px;
+  }
+  .navlinks {
+    padding: 10px 40px;
+  }
+}

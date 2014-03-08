@@ -1,0 +1,55 @@
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.row {
+  padding-top: 20px;
+  @extend %cf;
+}
+
+.column,
+.half, 
+.one-third,
+.two-thirds,
+.one-fourth,
+.three-fourths {
+  width: 100%;
+  padding: 0 20px;
+  float: left;
+}
+
+@include media-query(medium) {
+  .one-fourth {
+    width: 25%;
+  }
+  .one-third {
+    width: 33.3%;
+  }
+  .half {
+    width: 50%;
+  }
+  .two-thirds {
+    width: 66.67%;
+  }
+  .three-fourths {
+    width: 75%;
+  }
+}
+
+.pr {
+  float: right;
+}
+
+.hide-mobile {
+  display: none;
+}
+
+@include media-query(medium) {
+  .hide-mobile {
+    display: inline-block;
+  }
+  .hide-desktop {
+    display: none;
+  }
+}

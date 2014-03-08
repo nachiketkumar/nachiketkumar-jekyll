@@ -1,0 +1,23 @@
+.pu {
+  .logo-pu {
+    svg path {
+      fill: #0C839D;
+    }
+  }
+  .subhead {
+    color: #FF9C41;
+  }
+  a {
+    color: #FF9C41;
+  }
+  .tldr {
+    background: lighten(#FF9C41, 35%);
+  }
+  .resizer {
+    background: #0C839D;
+    color: #fff;
+    h1 {
+      color: #fff;
+    }
+  }
+}
