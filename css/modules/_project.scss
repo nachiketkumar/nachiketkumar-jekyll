@@ -1,0 +1,47 @@
+.title {
+  margin: 20px 0 50px;
+}
+
+.project {
+  padding: 50px 0;
+}
+
+.curri {
+  background: #415463;
+  background: linear-gradient(to bottom, #415463, darken(#415463, 7%));
+  color: #fff;
+  h2 {
+    color: #fff;
+  }
+  .project-view {
+    color: #fff;
+    border: 2px solid #fff;
+    &:hover {
+      color: #415463;
+      background: #fff;
+    }
+  }
+}
+
+.rimidi {
+  .project-view {
+    color: $color-red;
+    border: 2px solid $color-red;
+    &:hover {
+      color: #fff;
+      background: $color-red;
+    }
+  }
+}
+.project-view {
+  font-family: $sans-serif;
+  font-weight: 700;
+  display: inline-block;
+  margin-top: 20px;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  @include border-radius(7px);
+  &:hover {
+    text-decoration: none;
+  }
+}

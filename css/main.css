@@ -465,7 +465,7 @@ h1,
 h2,
 h3,
 h4 {
-  color: #415463;
+  color: #454d52;
   font-weight: 900; }
 
 h1,
@@ -625,13 +625,13 @@ h3,
 
 .navlinks, .accounts a {
   display: inline-block;
-  padding: 10px 28px;
+  padding: 10px 20px;
   color: #888888;
   font-weight: 500;
   text-transform: uppercase; }
   .navlinks:hover, .accounts a:hover {
     text-decoration: none;
-    color: #3c3c3c; }
+    color: #222222; }
 
 @media only screen and (min-width: 600px) {
   .header {
@@ -639,7 +639,7 @@ h3,
     padding-top: 20px; }
 
   .navlinks, .accounts a {
-    padding: 10px 40px; } }
+    padding: 10px 55px; } }
 .profile {
   margin-top: 130px;
   text-align: center; }
@@ -658,6 +658,9 @@ h3,
 
 .intro {
   margin-top: 20px; }
+  .intro h1,
+  .intro .subhead {
+    text-align: center; }
 
 @media only screen and (min-width: 600px) {
   .profile {
@@ -667,11 +670,13 @@ h3,
   .pic {
     height: 100px;
     width: 100px;
-    margin-left: 30px;
     margin-top: -70px; }
 
   .intro {
-    margin-top: -50px; } }
+    margin-top: -50px; }
+    .intro h1,
+    .intro .subhead {
+      text-align: left; } }
 @media only screen and (min-width: 1024px) {
   .pic {
     width: 150px;
@@ -680,14 +685,16 @@ h3,
 .accounts {
   float: none;
   margin-right: 0;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #dddddd; }
   .accounts li {
     width: 33.3%; }
   .accounts a {
     width: 84px;
     height: 40px; }
     .accounts a:hover .icons {
-      fill: #415463; }
+      fill: #454d52; }
   .accounts .icons {
     fill: #eb4d6d;
     -webkit-transition: all 0.3s ease-in-out;
@@ -697,7 +704,7 @@ h3,
 
 @media only screen and (min-width: 600px) {
   .accounts {
-    float: right;
+    border: none;
     margin-top: 24px; }
     .accounts a {
       padding: 10px 30px; } }
@@ -721,7 +728,7 @@ h3,
 .tldr {
   padding: 15px 20px 5px;
   margin-bottom: 20px;
-  border: 1px solid #c8d3db;
+  border: 1px solid #c7cccf;
   background: #f8fdf9;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -729,7 +736,7 @@ h3,
   border-radius: 5px; }
   .tldr h3 {
     padding-bottom: 10px;
-    border-bottom: 1px solid #c8d3db; }
+    border-bottom: 1px solid #c7cccf; }
 
 ol {
   padding-left: 20px;
@@ -753,7 +760,7 @@ li {
     top: 3px; } }
 .resizer {
   /* Full-screen takeover… */
-  background: #2d3a44;
+  background: #2e3336;
   color: #5fcf80;
   text-align: center;
   display: none;
@@ -774,6 +781,46 @@ li {
 @media only screen and (min-width: 1024px) {
   .resizer h1 {
     font-size: 6rem; } }
+.title {
+  margin: 20px 0 50px; }
+
+.project {
+  padding: 50px 0; }
+
+.curri {
+  background: #415463;
+  background: linear-gradient(to bottom, #415463, #33424d);
+  color: #fff; }
+  .curri h2 {
+    color: #fff; }
+  .curri .project-view {
+    color: #fff;
+    border: 2px solid #fff; }
+    .curri .project-view:hover {
+      color: #415463;
+      background: #fff; }
+
+.rimidi .project-view {
+  color: #eb4d6d;
+  border: 2px solid #eb4d6d; }
+  .rimidi .project-view:hover {
+    color: #fff;
+    background: #eb4d6d; }
+
+.project-view {
+  font-family: "freight-sans-pro", "cronos-pro-subhead", "Helvetica Neue", "Helvetica", sans-serif;
+  font-weight: 700;
+  display: inline-block;
+  margin-top: 20px;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -o-border-radius: 7px;
+  border-radius: 7px; }
+  .project-view:hover {
+    text-decoration: none; }
+
 .pu .logo-pu svg path {
   fill: #0C839D; }
 .pu .subhead {

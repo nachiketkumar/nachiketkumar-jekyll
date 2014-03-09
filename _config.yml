@@ -4,3 +4,4 @@ pygments: true
 permalink: /blog/:title
 exclude: [Gemfile, Gemfile.lock, config.rb, s3_website.yml, .env]
 
+
