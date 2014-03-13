@@ -427,12 +427,22 @@ body, .row, .accounts {
   body:after, .row:after, .accounts:after {
     clear: both; }
 
+.center {
+  text-align: center; }
+
+@media only screen and (min-width: 600px) {
+  .center {
+    text-align: left; } }
 * {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased; }
+
+::selection {
+  background: #eb4d6d;
+  color: #fff; }
 
 html {
   height: 100%; }
@@ -441,7 +451,7 @@ body {
   font-family: "freight-sans-pro", "cronos-pro-subhead", "Helvetica Neue", "Helvetica", sans-serif;
   background-color: #ffffff;
   color: #51515b; }
-  body .row:last-child {
+  body .row:last-of-type {
     margin-bottom: 60px; }
 
 p, .two-thirds ol {
@@ -464,7 +474,12 @@ a {
 h1,
 h2,
 h3,
-h4 {
+h4,
+.h1,
+.h2,
+.large,
+.h3,
+.h4 {
   color: #454d52;
   font-weight: 900; }
 
@@ -527,12 +542,27 @@ h3,
   .h3 {
     font-size: 1.75rem; }
 
-  .small, .translation {
-    font-size: 1.1rem; }
-
   p, .two-thirds ol {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     line-height: 1.55; } }
+pre, code {
+  font-family: 'consolas', 'menlo', courier, monospace, sans-serif;
+  font-weight: 500;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  background: #efefef; }
+
+pre {
+  border: 1px solid #d0d0d0;
+  padding: 10px; }
+
+p code, .two-thirds ol code {
+  padding: 2px 5px 0;
+  color: #2a90b8;
+  border: 1px solid #d0d0d0; }
+
 .logo {
   display: inline-block;
   width: 93px;
@@ -551,7 +581,7 @@ h3,
     fill: #eb4d6d; }
 
 .container {
-  max-width: 980px;
+  max-width: 1024px;
   margin: 0 auto; }
 
 .row {
@@ -564,7 +594,7 @@ h3,
 .one-fourth,
 .three-fourths {
   width: 100%;
-  padding: 0 20px;
+  padding: 0 30px;
   float: left; }
 
 @media only screen and (min-width: 600px) {
@@ -593,6 +623,9 @@ h3,
     display: inline-block; }
 
   .hide-desktop {
+    display: none; }
+
+  .responsive-break {
     display: none; } }
 .two-thirds ol {
   padding-left: 40px; }
@@ -603,6 +636,36 @@ h3,
 @media only screen and (min-width: 600px) {
   .header {
     margin-bottom: 30px; } }
+.blog ul {
+  padding: 0;
+  list-style-type: none; }
+.blog .post-link,
+.blog .all-posts a {
+  color: #454d52; }
+  .blog .post-link:hover,
+  .blog .all-posts a:hover {
+    color: #eb4d6d;
+    text-decoration: none; }
+
+.post {
+  margin: 20px -30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-bottom: 1px solid #dddddd; }
+
+@media only screen and (min-width: 600px) {
+  .post:last-child {
+    border: none; }
+
+  .recent {
+    margin-top: -20px; }
+    .recent .column {
+      padding-top: 20px; }
+    .recent .two-thirds {
+      border-right: 1px solid #dddddd; }
+
+  .row-bdb {
+    border-bottom: 1px solid #dddddd; } }
 .header {
   padding: 0;
   border-bottom: 1px solid #dddddd; }
@@ -625,13 +688,13 @@ h3,
 
 .navlinks, .accounts a {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 10px 18px;
   color: #888888;
   font-weight: 500;
   text-transform: uppercase; }
   .navlinks:hover, .accounts a:hover {
     text-decoration: none;
-    color: #222222; }
+    color: #eb4d6d; }
 
 @media only screen and (min-width: 600px) {
   .header {
@@ -686,6 +749,7 @@ h3,
   float: none;
   margin-right: 0;
   margin-bottom: 30px;
+  margin-top: 0;
   padding-top: 20px;
   border-top: 1px solid #dddddd; }
   .accounts li {
@@ -704,8 +768,7 @@ h3,
 
 @media only screen and (min-width: 600px) {
   .accounts {
-    border: none;
-    margin-top: 24px; }
+    border: none; }
     .accounts a {
       padding: 10px 30px; } }
 .subhead {
@@ -758,10 +821,27 @@ li {
     width: 24px;
     height: 24px;
     top: 3px; } }
+.meta {
+  color: #2a90b8;
+  margin-top: 10px;
+  margin-bottom: 20px; }
+
+.bdt {
+  border-top: 1px solid #dddddd;
+  padding-top: 20px; }
+
+.pu .logo-pu svg path {
+  fill: #0C839D; }
+.pu .subhead {
+  color: #ff9c41; }
+.pu a {
+  color: #ff9c41; }
+.pu .tldr {
+  background: #fff9f4; }
+
 .resizer {
   /* Full-screen takeover… */
   background: #2e3336;
-  color: #5fcf80;
   text-align: center;
   display: none;
   height: 100%;
@@ -771,9 +851,17 @@ li {
   width: 100%;
   z-index: 2014; }
   .resizer h1 {
-    color: #5fcf80;
+    color: #eb4d6d;
     margin-top: 20%;
     font-size: 4rem; }
+  .resizer .mf h1 {
+    color: #5fcf80; }
+  .pu .resizer {
+    background: #0C839D; }
+    .pu .resizer h1 {
+      color: #ff9c41; }
+  .resizer p, .resizer .two-thirds ol, .two-thirds .resizer ol {
+    color: #dddddd; }
 
 @media only screen and (min-width: 600px) {
   .resizer h1 {
@@ -781,15 +869,40 @@ li {
 @media only screen and (min-width: 1024px) {
   .resizer h1 {
     font-size: 6rem; } }
+.resume .two-thirds .subhead {
+  margin: 10px 0 0; }
+
+.resume-title {
+  margin-bottom: 20px; }
+
+@media only screen and (min-width: 600px) {
+  .resume-title {
+    border-bottom: 1px solid #dddddd; } }
+.details {
+  color: #888888;
+  margin-top: -30px; }
+
+.org {
+  font-weight: 700;
+  color: #2A90B8;
+  margin-bottom: 15px; }
+  .org:before {
+    content: "§";
+    display: inline-block;
+    margin-right: 10px; }
+
 .title {
-  margin: 20px 0 50px; }
+  margin: 20px 0; }
 
 .project {
-  padding: 50px 0; }
+  padding: 50px 0 0; }
 
+@media only screen and (min-width: 600px) {
+  .project {
+    padding-top: 70px; } }
 .curri {
   background: #415463;
-  background: linear-gradient(to bottom, #415463, #33424d);
+  background: linear-gradient(to bottom, #415463, #394a57);
   color: #fff; }
   .curri h2 {
     color: #fff; }
@@ -811,7 +924,7 @@ li {
   font-family: "freight-sans-pro", "cronos-pro-subhead", "Helvetica Neue", "Helvetica", sans-serif;
   font-weight: 700;
   display: inline-block;
-  margin-top: 20px;
+  margin: 20px auto;
   text-transform: uppercase;
   padding: 10px 20px;
   -webkit-border-radius: 7px;
@@ -821,16 +934,16 @@ li {
   .project-view:hover {
     text-decoration: none; }
 
-.pu .logo-pu svg path {
-  fill: #0C839D; }
-.pu .subhead {
-  color: #FF9C41; }
-.pu a {
-  color: #FF9C41; }
-.pu .tldr {
-  background: #fff9f4; }
-.pu .resizer {
-  background: #0C839D;
-  color: #fff; }
-  .pu .resizer h1 {
-    color: #fff; }
+.project-img {
+  width: 90%;
+  display: block;
+  margin: 0 auto; }
+
+.rimidi {
+  margin-bottom: 30px; }
+
+@media only screen and (min-width: 600px) {
+  .rimidi {
+    margin-bottom: 50px; } }
+.blue {
+  color: #2a90b8; }

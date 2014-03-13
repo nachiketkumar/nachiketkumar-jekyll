@@ -1,0 +1,31 @@
+.resume .two-thirds {
+  .subhead {
+    margin: 10px 0 0;
+  }
+}
+
+.resume-title {
+  margin-bottom: 20px;
+}
+
+@include media-query(medium) {
+  .resume-title {
+    border-bottom: 1px solid $grey-lt;
+  }
+}
+
+.details {
+  color: $grey-md;
+  margin-top: -30px;
+}
+
+.org {
+  font-weight: 700;
+  color: #2A90B8;
+  margin-bottom: 15px;
+  &:before {
+    content: "§";
+    display: inline-block;
+    margin-right: 10px;
+  }
+}

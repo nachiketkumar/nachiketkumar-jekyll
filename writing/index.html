@@ -1,0 +1,36 @@
+---
+layout: home
+title: Nachiket Kumar | Writing
+---
+<div class="container blog">
+  <div class="row row-bdb">
+    <div class="column">
+      <h1>Writing</h1>
+      <p>I'm guilty of thinking about writing more than actually writing, but what I have written, is here. Hopefully 2014 and my new site will be the impetus I need to write more regularly about design.</p>
+    </div>
+  </div>
+  <div class="row recent">
+    <div class="column two-thirds">
+      <p class="subhead">recent posts</p>
+      <ul>
+        {% for post in site.posts limit:5 %}
+          <li class="post">
+            <h2><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></h2>
+            <p class="meta small">{{ post.date | date_to_string }}</p>
+            {{ post.excerpt }}
+            <p><a href="{{ post.url }}">Read More...</a></p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="column one-third">
+      <p class="subhead">all posts</p>
+      <ul>
+        {% for post in site.posts %}
+          <li class="all-posts"><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+      </ul>
+    </div>
+  </div>
+  </div>
+</div>

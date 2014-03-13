@@ -21,7 +21,6 @@
   }
 }
 
-
 @include media-query(medium) {
   .profile {
     border-top: 1px solid $grey-lt;
@@ -55,6 +54,7 @@
   float: none;
   margin-right: 0;
   margin-bottom: 30px;
+  margin-top: 0;
   padding-top: 20px;
   border-top: 1px solid $grey-lt;
   li {
@@ -78,7 +78,6 @@
 @include media-query(medium) {
   .accounts {
     border: none;
-    margin-top: 24px;
     a {
     padding: 10px 30px;
     }

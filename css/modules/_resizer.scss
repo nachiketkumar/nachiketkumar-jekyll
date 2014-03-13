@@ -1,0 +1,41 @@
+.resizer {
+  /* Full-screen takeover… */
+  background: darken($color-main, 10%);
+  text-align: center;
+  display: none;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 2014;
+  h1 {
+    color: $color-red;
+    margin-top: 20%;
+    font-size: 4rem;
+  }
+  .mf h1 {
+    color: $color-green;
+  }
+  .pu & {
+    background: #0C839D;
+    h1 {
+    color: $color-orange; 
+    }
+  }
+  p {
+    color: $grey-lt;
+  }
+}
+
+@include media-query(medium) {
+  .resizer h1 {
+    font-size: 5rem;
+  }
+}
+
+@include media-query(large) {
+  .resizer h1 {
+    font-size: 6rem;
+  }
+}

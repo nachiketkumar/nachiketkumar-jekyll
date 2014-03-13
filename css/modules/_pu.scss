@@ -5,19 +5,19 @@
     }
   }
   .subhead {
-    color: #FF9C41;
+    color: $color-orange;
   }
   a {
-    color: #FF9C41;
+    color: $color-orange;
   }
   .tldr {
-    background: lighten(#FF9C41, 35%);
+    background: lighten($color-orange, 35%);
   }
   .resizer {
-    background: #0C839D;
-    color: #fff;
+    
+    // color: #fff;
     h1 {
-      color: #fff;
+      // color: #fff;
     }
   }
 }

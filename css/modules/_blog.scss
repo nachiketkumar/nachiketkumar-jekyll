@@ -1,0 +1,39 @@
+.blog {
+  ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  .post-link,
+  .all-posts a {
+    color: $color-main;
+    &:hover {
+      color: $color-red;
+      text-decoration: none;
+    }
+  }
+}
+
+.post {
+  margin: 20px -30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-bottom: 1px solid $grey-lt;
+}
+
+@include media-query(medium) {
+  .post:last-child {
+    border: none;
+  }
+  .recent {
+    margin-top: -20px;
+    .column {
+      padding-top: 20px;
+    }
+    .two-thirds {
+      border-right: $global-border;
+    }
+  }
+  .row-bdb {
+  border-bottom: $global-border;   
+  }
+}

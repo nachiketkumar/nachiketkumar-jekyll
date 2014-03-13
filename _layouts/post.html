@@ -1,9 +1,15 @@
 ---
-layout: default
+layout: home
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-{{ content }}
+<div class="container">
+  <div class="row">
+    <div class="column two-thirds">
+      <h2>{{ page.title }}</h2>
+      <p class="meta small">{{ page.date | date_to_string }}</p>
+      <div class="post">
+      {{ content }}
+      <p class="bdt">I'd love to hear your thoughts about this post (or anything else)&mdash; send me a <a href="http://twitter.com/nachiketkumar">tweet</a> or <a href="mailto:nk@nachiketkumar.com?subject={{page.title}}">an email</a>!</p>
+      </div>
+    </div>
+  </div>
 </div>

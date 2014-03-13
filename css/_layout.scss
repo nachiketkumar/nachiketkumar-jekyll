@@ -1,5 +1,5 @@
 .container {
-  max-width: 980px;
+  max-width: 1024px;
   margin: 0 auto;
 }
 
@@ -15,7 +15,7 @@
 .one-fourth,
 .three-fourths {
   width: 100%;
-  padding: 0 20px;
+  padding: 0 30px;
   float: left;
 }
 
@@ -50,6 +50,9 @@
     display: inline-block;
   }
   .hide-desktop {
+    display: none;
+  }
+  .responsive-break {
     display: none;
   }
 }
