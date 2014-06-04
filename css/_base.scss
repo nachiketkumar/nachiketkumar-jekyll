@@ -19,16 +19,13 @@ body {
   background-color: #ffffff;
   color: $grey-dk;
   @extend %cf;
-  .row:last-of-type {
-    margin-bottom: 60px;
-  }
 }
 
 p {
   font-family: $serif;
   font-size: 1rem;
   line-height: 1.5;
-  margin: 15px 0 35px 0;
+  margin: 15px 0 25px 0;
 }
 
 a {
@@ -69,6 +66,7 @@ h3,
 .h3 {
   font-size: 1.1rem;
   line-height: 1;
+  margin-bottom: 15px;
 }
 
 .small {
@@ -144,6 +142,10 @@ p code {
   border: 1px solid darken($grey-lt, 5%);
 }
 
+img {
+  max-width: 100%;
+}
+
 .logo {
   display: inline-block;
   width: 93px;
@@ -159,4 +161,9 @@ p code {
   svg path {
     fill: $color-red;
   }
+}
+
+.caption {
+  @extend .small;
+  font-style: italic;
 }

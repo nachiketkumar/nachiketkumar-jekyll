@@ -62,16 +62,6 @@
   margin: 0 auto;
 }
 
-.rimidi {
-  margin-bottom: 30px;
-}
-
-@include media-query(medium) {
-  .rimidi {
-    margin-bottom: 50px;
-  }
-}
-
 .blue {
   color: $color-blue;
 }

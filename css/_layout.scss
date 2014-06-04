@@ -6,6 +6,9 @@
 .row {
   padding-top: 20px;
   @extend %cf;
+  &:nth-last-of-type(2) {
+    padding-bottom: 50px;
+  }
 }
 
 .column,

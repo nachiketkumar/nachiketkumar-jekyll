@@ -1,0 +1,1961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="792px"
+	 height="612px" viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<g id="Layer_3">
+	<rect fill="#FFFFFF" width="792" height="612"/>
+</g>
+<g id="Layer_1">
+	
+		<rect x="-596.302" y="-3332.82" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="-829.782" y="-3332.82" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="-239.436" y="-3394.518" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 -188.1016 -3384.5635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="-829.782" y="-2989.518" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2978.1416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="-292" y="-2989.518" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 -292 -2978.1416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="-596.302" y="-3352.518" fill="none" width="249" height="49"/>
+	<text transform="matrix(1 0 0 1 -596.3018 -3343.9854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="-829.782" y="-2961.018" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2953.9082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="-829.782" y="-2892.351" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2885.2402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	
+		<rect x="-596.302" y="-2648.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="-829.782" y="-2648.32" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="-829.782" y="-2305.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2293.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="-292" y="-2305.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 -292 -2293.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="-596.302" y="-2668.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -596.3018 -2659.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="-829.782" y="-2276.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2269.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="-829.782" y="-2207.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2200.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="-829.782" y="-2668.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2659.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	
+		<rect x="267.698" y="-3332.82" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="34.218" y="-3332.82" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="34.218" y="-2989.518" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2978.1416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="572" y="-2989.518" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 572 -2978.1416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="267.698" y="-3352.518" fill="none" width="249" height="49"/>
+	<text transform="matrix(1 0 0 1 267.6982 -3343.9854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="34.218" y="-2961.018" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2953.9082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="34.218" y="-2892.351" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2885.2402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="34.218" y="-3352.518" fill="none" width="249" height="49"/>
+	<text transform="matrix(1 0 0 1 34.2178 -3343.9854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="-815.272" y="-3316.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -815.2725 -3307.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="-549.272" y="-3322.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -549.2725 -3313.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="-829.782" y="-2648.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="-596.302" y="-2648.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="-815.272" y="-2631.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -815.2725 -2622.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="-549.272" y="-2638.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -549.2725 -2629.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M-664.5-2627.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-2628.941-664.5-2628.301-664.5-2627.518z"/>
+	</g>
+	<g>
+		<path d="M-664.5-2620.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-2621.941-664.5-2621.301-664.5-2620.518z"/>
+	</g>
+	<rect x="48.728" y="-3316.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 48.7275 -3307.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="314.728" y="-3322.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 314.7275 -3313.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="624.564" y="-3394.518" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 675.8984 -3384.5635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="-239.436" y="-2710.018" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 -188.1016 -2700.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="685.782" y="-2838.518" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 737.543 -2831.8477)" font-family="'ProximaNova-Bold'" font-size="10">pg 2</text>
+	<rect x="-178.218" y="-2838.518" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 -124.5674 -2831.8477)" font-family="'ProximaNova-Bold'" font-size="10">pg 1</text>
+	<rect x="685.782" y="-2838.518" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 737.543 -2831.8477)" font-family="'ProximaNova-Bold'" font-size="10">pg 2</text>
+	<rect x="-178.218" y="-2154.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 -126.4277 -2147.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 4</text>
+	
+		<rect x="1130.155" y="-3332.82" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	<g>
+		<rect x="896.675" y="-3332.82" fill="#FFFFFF" width="185.782" height="306.303"/>
+		
+			<rect x="896.675" y="-3332.82" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	</g>
+	<rect x="896.675" y="-2989.518" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2978.1416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="1434.457" y="-2989.518" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 1434.457 -2978.1416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="1130.155" y="-3352.518" fill="none" width="249" height="49"/>
+	<text transform="matrix(1 0 0 1 1130.1553 -3343.9854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="896.675" y="-2961.018" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2953.9082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="896.675" y="-2892.351" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2885.2402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="896.675" y="-3352.518" fill="none" width="249" height="49"/>
+	<text transform="matrix(1 0 0 1 896.6748 -3343.9854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="911.185" y="-3316.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 911.1846 -3307.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="1177.185" y="-3322.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 1177.1846 -3313.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="1487.021" y="-3394.518" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 1538.3555 -3384.5635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="1548.239" y="-2838.518" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 1600.1299 -2831.8477)" font-family="'ProximaNova-Bold'" font-size="10">pg 3</text>
+	<g>
+		<path d="M-664.5-2634.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-2635.941-664.5-2635.301-664.5-2634.518z"/>
+	</g>
+	
+		<rect x="267.698" y="-2648.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="34.218" y="-2648.32" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="34.218" y="-2305.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2293.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="572" y="-2305.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 572 -2293.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="267.698" y="-2668.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 267.6982 -2659.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="34.218" y="-2276.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2269.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="34.218" y="-2207.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2200.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="34.218" y="-2668.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2659.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="34.218" y="-2648.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="267.698" y="-2648.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="48.728" y="-2631.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 48.7275 -2622.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="314.728" y="-2638.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 314.7275 -2629.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M199.5-2627.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-2628.941,199.5-2628.301,199.5-2627.518z"/>
+	</g>
+	<g>
+		<path d="M199.5-2620.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-2621.941,199.5-2621.301,199.5-2620.518z"/>
+	</g>
+	<rect x="624.564" y="-2710.018" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 675.8984 -2700.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="685.782" y="-2154.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 737.4629 -2147.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 5</text>
+	<g>
+		<path d="M199.5-2634.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-2635.941,199.5-2635.301,199.5-2634.518z"/>
+	</g>
+	
+		<rect x="1130.155" y="-2648.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="896.675" y="-2648.32" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="896.675" y="-2305.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2293.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="1434.457" y="-2305.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 1434.457 -2293.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="1130.155" y="-2668.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 1130.1553 -2659.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="896.675" y="-2276.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2269.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="896.675" y="-2207.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2200.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="896.675" y="-2668.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2659.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="896.675" y="-2648.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="1130.155" y="-2648.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="911.185" y="-2631.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 911.1846 -2622.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="1177.185" y="-2638.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 1177.1846 -2629.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M1061.957-2627.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-2628.941,1061.957-2628.301,1061.957-2627.518z"/>
+	</g>
+	<g>
+		<path d="M1061.957-2620.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-2621.941,1061.957-2621.301,1061.957-2620.518z"/>
+	</g>
+	<rect x="1487.021" y="-2710.018" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 1538.3555 -2700.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="1548.239" y="-2154.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 1599.9199 -2147.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 6</text>
+	<g>
+		<path d="M1061.957-2634.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-2635.941,1061.957-2635.301,1061.957-2634.518z"/>
+	</g>
+	
+		<rect x="267.698" y="-1956.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="34.218" y="-1956.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="34.218" y="-1613.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 34.2178 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="572.001" y="-1613.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 572 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="267.698" y="-1976.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 267.6982 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="34.218" y="-1584.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -1577.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="34.218" y="-1515.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 34.2178 -1508.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="34.218" y="-1976.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 34.2178 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="34.218" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="267.698" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="48.728" y="-1939.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 48.7275 -1930.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="314.728" y="-1946.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 314.7275 -1937.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M199.5-1935.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-1936.941,199.5-1936.301,199.5-1935.518z"/>
+	</g>
+	<g>
+		<path d="M199.5-1928.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-1929.941,199.5-1929.301,199.5-1928.518z"/>
+	</g>
+	<rect x="624.565" y="-2018.018" fill="none" width="133.217" height="49"/>
+	<text transform="matrix(1 0 0 1 675.8984 -2008.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="685.782" y="-1462.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 737.4824 -1455.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 8</text>
+	<g>
+		<path d="M199.5-1942.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-1943.941,199.5-1943.301,199.5-1942.518z"/>
+	</g>
+	
+		<rect x="-596.302" y="-1956.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="-829.782" y="-1956.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="-829.782" y="-1613.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="-291.999" y="-1613.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 -292 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="-596.302" y="-1976.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -596.3018 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="-829.782" y="-1584.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1577.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="-829.782" y="-1515.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1508.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="-829.782" y="-1976.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="-829.782" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="-596.302" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="-815.272" y="-1939.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -815.2725 -1930.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="-549.272" y="-1946.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -549.2725 -1937.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M-664.5-1935.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-1936.941-664.5-1936.301-664.5-1935.518z"/>
+	</g>
+	<g>
+		<path d="M-664.5-1928.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-1929.941-664.5-1929.301-664.5-1928.518z"/>
+	</g>
+	<rect x="-239.435" y="-2018.018" fill="none" width="133.217" height="49"/>
+	<text transform="matrix(1 0 0 1 -188.1016 -2008.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="-178.218" y="-1462.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 -125.9072 -1455.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 7</text>
+	<g>
+		<path d="M-664.5-1942.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-1943.941-664.5-1943.301-664.5-1942.518z"/>
+	</g>
+	
+		<rect x="1130.155" y="-1956.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="896.675" y="-1956.32" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="896.675" y="-1613.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 896.6748 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="1434.457" y="-1613.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 1434.457 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="1130.155" y="-1976.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 1130.1553 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="896.675" y="-1584.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -1577.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="896.675" y="-1515.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 896.6748 -1508.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="896.675" y="-1976.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 896.6748 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="896.675" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="1130.155" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="911.185" y="-1939.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 911.1846 -1930.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="1177.185" y="-1946.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 1177.1846 -1937.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M1061.957-1935.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-1936.941,1061.957-1936.301,1061.957-1935.518z"/>
+	</g>
+	<g>
+		<path d="M1061.957-1928.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-1929.941,1061.957-1929.301,1061.957-1928.518z"/>
+	</g>
+	<rect x="1487.021" y="-2018.018" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 1538.3555 -2008.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="1548.239" y="-1462.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 1599.9199 -1455.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 9</text>
+	<g>
+		<path d="M1061.957-1942.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-1943.941,1061.957-1943.301,1061.957-1942.518z"/>
+	</g>
+	
+		<rect x="1994.155" y="-1956.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="1760.675" y="-1956.32" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="1760.675" y="-1613.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 1760.6748 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="2298.457" y="-1613.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 2298.457 -1601.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="1994.155" y="-1976.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 1994.1553 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="1760.675" y="-1584.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 1760.6748 -1577.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="1760.675" y="-1515.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 1760.6748 -1508.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="1760.675" y="-1976.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 1760.6748 -1967.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="1760.675" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="1994.155" y="-1956.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="1775.185" y="-1939.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 1775.1846 -1930.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="2041.185" y="-1946.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 2041.1846 -1937.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M1925.957-1935.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1925.057-1936.941,1925.957-1936.301,1925.957-1935.518z"/>
+	</g>
+	<g>
+		<path d="M1925.957-1928.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1925.057-1929.941,1925.957-1929.301,1925.957-1928.518z"/>
+	</g>
+	<rect x="2351.021" y="-2018.018" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 2402.3555 -2008.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="2412.239" y="-1462.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 2459.6895 -1455.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 10</text>
+	<g>
+		<path d="M1925.957-1942.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1925.057-1943.941,1925.957-1943.301,1925.957-1942.518z"/>
+	</g>
+	
+		<rect x="-596.302" y="-1268.32" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="-829.782" y="-1268.32" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="-829.782" y="-925.018" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -913.6416)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="-292" y="-925.018" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 -292 -913.6416)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="-596.302" y="-1288.018" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -596.3018 -1279.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="-829.782" y="-896.518" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -889.4082)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="-829.782" y="-827.851" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -820.7402)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="-829.782" y="-1288.018" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1279.4854)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="-829.782" y="-1268.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="-596.302" y="-1268.32" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="-815.272" y="-1251.669" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -815.2725 -1242.998)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="-549.272" y="-1258.169" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -549.2725 -1249.498)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M-664.5-1247.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-1248.941-664.5-1248.301-664.5-1247.518z"/>
+	</g>
+	<g>
+		<path d="M-664.5-1240.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-1241.941-664.5-1241.301-664.5-1240.518z"/>
+	</g>
+	<rect x="-239.436" y="-1330.018" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 -188.1016 -1320.0635)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="-178.218" y="-774.018" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 -128.6777 -767.3477)" font-family="'ProximaNova-Bold'" font-size="10">pg 11</text>
+	<g>
+		<path d="M-664.5-1254.518c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-1255.941-664.5-1255.301-664.5-1254.518z"/>
+	</g>
+	
+		<rect x="-596.302" y="-588.303" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="-829.782" y="-588.303" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="-829.782" y="-245" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -233.624)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="-292" y="-245" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 -292 -233.624)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="-596.302" y="-608" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -596.3018 -599.4678)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="-829.782" y="-216.5" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -209.3906)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="-829.782" y="-147.833" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -140.7227)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="-829.782" y="-608" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -599.4678)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="-829.782" y="-588.303" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="-596.302" y="-588.303" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="-815.272" y="-571.651" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -815.2725 -562.9805)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="-549.272" y="-578.151" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -549.2725 -569.4805)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M-664.5-567.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-568.924-664.5-568.283-664.5-567.5z"/>
+	</g>
+	<g>
+		<path d="M-664.5-560.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-561.924-664.5-561.283-664.5-560.5z"/>
+	</g>
+	<rect x="-239.436" y="-650" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 -188.1016 -640.0459)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="-178.218" y="-94" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 -130.5674 -87.3301)" font-family="'ProximaNova-Bold'" font-size="10">pg 12</text>
+	<g>
+		<path d="M-664.5-574.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4-575.924-664.5-575.283-664.5-574.5z"/>
+	</g>
+	
+		<rect x="267.698" y="-588.303" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="34.218" y="-588.303" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="34.218" y="-245" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 34.2178 -233.624)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="572" y="-245" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 572 -233.624)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="267.698" y="-608" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 267.6982 -599.4678)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="34.218" y="-216.5" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -209.3906)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="34.218" y="-147.833" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 34.2178 -140.7227)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="34.218" y="-608" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 34.2178 -599.4678)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="34.218" y="-588.303" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="267.698" y="-588.303" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="48.728" y="-571.651" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 48.7275 -562.9805)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="314.728" y="-578.151" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 314.7275 -569.4805)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M199.5-567.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-568.924,199.5-568.283,199.5-567.5z"/>
+	</g>
+	<g>
+		<path d="M199.5-560.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-561.924,199.5-561.283,199.5-560.5z"/>
+	</g>
+	<rect x="624.564" y="-650" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 675.8984 -640.0459)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="685.782" y="-94" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 733.5625 -87.3301)" font-family="'ProximaNova-Bold'" font-size="10">pg 13</text>
+	<g>
+		<path d="M199.5-574.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6-575.924,199.5-575.283,199.5-574.5z"/>
+	</g>
+	
+		<rect x="1130.155" y="-588.303" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="896.675" y="-588.303" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="896.675" y="-245" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 896.6748 -233.624)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="1434.457" y="-245" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 1434.457 -233.624)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="1130.155" y="-608" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 1130.1553 -599.4678)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="896.675" y="-216.5" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -209.3906)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="896.675" y="-147.833" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 896.6748 -140.7227)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="896.675" y="-608" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 896.6748 -599.4678)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="896.675" y="-588.303" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="1130.155" y="-588.303" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="911.185" y="-571.651" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 911.1846 -562.9805)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="1177.185" y="-578.151" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 1177.1846 -569.4805)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M1061.957-567.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-568.924,1061.957-568.283,1061.957-567.5z"/>
+	</g>
+	<g>
+		<path d="M1061.957-560.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-561.924,1061.957-561.283,1061.957-560.5z"/>
+	</g>
+	<rect x="1487.021" y="-650" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 1538.3555 -640.0459)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="1548.239" y="-94" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 1595.9199 -87.3301)" font-family="'ProximaNova-Bold'" font-size="10">pg 14</text>
+	<g>
+		<path d="M1061.957-574.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057-575.924,1061.957-575.283,1061.957-574.5z"/>
+	</g>
+	
+		<rect x="-596.302" y="91.697" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="-829.782" y="91.697" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="-829.782" y="435" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 -829.7822 446.376)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="-292" y="435" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 -292 446.376)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="-596.302" y="72" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -596.3018 80.5322)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="-829.782" y="463.5" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 470.6094)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="-829.782" y="532.167" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 -829.7822 539.2773)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="-829.782" y="72" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 -829.7822 80.5322)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="-829.782" y="91.697" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="-596.302" y="91.697" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="-815.272" y="108.349" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -815.2725 117.0195)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="-549.272" y="101.849" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 -549.2725 110.5195)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M-664.5,112.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4,111.076-664.5,111.717-664.5,112.5z"/>
+	</g>
+	<g>
+		<path d="M-664.5,119.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4,118.076-664.5,118.717-664.5,119.5z"/>
+	</g>
+	<rect x="-239.436" y="30" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 -188.1016 39.9541)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="-178.218" y="586" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 -130.6475 592.6699)" font-family="'ProximaNova-Bold'" font-size="10">pg 15</text>
+	<g>
+		<path d="M-664.5,105.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C-665.4,104.076-664.5,104.717-664.5,105.5z"/>
+	</g>
+	
+		<rect x="267.698" y="91.697" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="34.218" y="91.697" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="34.218" y="435" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 34.2178 446.376)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="572" y="435" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 572 446.376)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="267.698" y="72" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 267.6982 80.5322)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="34.218" y="463.5" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 470.6094)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="34.218" y="532.167" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 34.2178 539.2773)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="34.218" y="72" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 34.2178 80.5322)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="34.218" y="91.697" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="267.698" y="91.697" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="48.728" y="108.349" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 48.7275 117.0195)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="314.728" y="101.849" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 314.7275 110.5195)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M199.5,112.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6,111.076,199.5,111.717,199.5,112.5z"/>
+	</g>
+	<g>
+		<path d="M199.5,119.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6,118.076,199.5,118.717,199.5,119.5z"/>
+	</g>
+	<rect x="624.564" y="30" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 675.8984 39.9541)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="685.782" y="586" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 733.3525 592.6699)" font-family="'ProximaNova-Bold'" font-size="10">pg 16</text>
+	<g>
+		<path d="M199.5,105.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424H197.5
+			C198.6,104.076,199.5,104.717,199.5,105.5z"/>
+	</g>
+	
+		<rect x="1130.155" y="91.697" fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="490.084" height="306.303"/>
+	
+		<rect x="896.675" y="91.697" fill="#FFFFFF" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" width="185.782" height="306.303"/>
+	<rect x="896.675" y="435" fill="none" width="249" height="16"/>
+	<text transform="matrix(1 0 0 1 896.6748 446.376)" font-family="'MyriadPro-Bold'" font-size="16">User Flow</text>
+	<rect x="1434.457" y="435" fill="none" width="138" height="16"/>
+	<text transform="matrix(1 0 0 1 1434.457 446.376)" font-family="'MyriadPro-Bold'" font-size="16">Notes</text>
+	<rect x="1130.155" y="72" fill="none" width="142.636" height="12.499"/>
+	<text transform="matrix(1 0 0 1 1130.1553 80.5322)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Large (laptop/desktop)</text>
+	<rect x="896.675" y="463.5" fill="none" width="140.782" height="8.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 470.6094)" font-family="'MyriadPro-Semibold'" font-size="10">What user sees</text>
+	<rect x="896.675" y="532.167" fill="none" width="124.5" height="7.771"/>
+	<text transform="matrix(1 0 0 1 896.6748 539.2773)" font-family="'MyriadPro-Semibold'" font-size="10">What user does</text>
+	<rect x="896.675" y="72" fill="none" width="154.97" height="12.499"/>
+	<text transform="matrix(1 0 0 1 896.6748 80.5322)" fill="#939598" font-family="'MyriadPro-Semibold'" font-size="12">Small (phone)</text>
+	<rect x="896.675" y="91.697" fill="none" stroke="#000000" stroke-miterlimit="10" width="185.782" height="42.303"/>
+	<rect x="1130.155" y="91.697" fill="none" stroke="#000000" stroke-miterlimit="10" width="490.084" height="29.303"/>
+	<rect x="911.185" y="108.349" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 911.1846 117.0195)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<rect x="1177.185" y="101.849" fill="none" width="47.74" height="13"/>
+	<text transform="matrix(1 0 0 1 1177.1846 110.5195)" font-family="'ProximaNova-Bold'" font-size="13" letter-spacing="1">CURRI</text>
+	<g>
+		<path d="M1061.957,112.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057,111.076,1061.957,111.717,1061.957,112.5z"/>
+	</g>
+	<g>
+		<path d="M1061.957,119.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057,118.076,1061.957,118.717,1061.957,119.5z"/>
+	</g>
+	<rect x="1487.021" y="30" fill="none" width="133.218" height="49"/>
+	<text transform="matrix(1 0 0 1 1538.3555 39.9541)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="1548.239" y="586" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 1596.4395 592.6699)" font-family="'ProximaNova-Bold'" font-size="10">pg 17</text>
+	<g>
+		<path d="M1061.957,105.5c0,0.783-0.9,1.424-2,1.424h-16.625c-1.1,0-2-0.641-2-1.424s0.9-1.424,2-1.424h16.625
+			C1061.057,104.076,1061.957,104.717,1061.957,105.5z"/>
+	</g>
+	<rect x="-239.436" y="702.499" fill="none" width="133.218" height="15"/>
+	<text transform="matrix(1 0 0 1 -188.1016 712.4531)" font-family="'MyriadPro-Bold'" font-size="14">Project: Curri</text>
+	<rect x="-178.218" y="1258.499" fill="none" width="72" height="19"/>
+	<text transform="matrix(1 0 0 1 -130.627 1265.1689)" font-family="'ProximaNova-Bold'" font-size="10">pg 18</text>
+</g>
+<g id="Layer_2">
+	<rect x="1036.738" y="272.607" fill="#E6E7E8" width="18.262" height="15.625"/>
+	<rect x="-829.782" y="-2943.518" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2936.418)" font-family="'MyriadPro-Regular'" font-size="10">After clicking on Login on the landing page, the user sees a login form along with an option to register if user is new.</text>
+	<rect x="-829.782" y="-2874.518" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2867.418)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Submit valid params to login --&gt; taken to the classroom view</tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">Submit invalid params --&gt; error flash and new login form.</tspan></text>
+	<rect x="-293" y="-2961.018" fill="none" width="196" height="59.125"/>
+	<text transform="matrix(1 0 0 1 -293 -2953.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">For a better UX during login flow, detailed </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">error messages should be provided- incorrect </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">password or email?</tspan></text>
+	
+		<rect x="-804.326" y="-3230.518" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	
+		<rect x="-804.326" y="-3185.518" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="-805.058" y="-3266.851" fill="none" width="91.333" height="16.667"/>
+	<text transform="matrix(1 0 0 1 -805.0576 -3258.1797)" font-family="'ProximaNova-Bold'" font-size="13">Welcome Back!</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M-669.812-3113.018c0,2.75-2.25,5-5,5H-800
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5h125.188c2.75,0,5,2.25,5,5V-3113.018z"/>
+	</g>
+	<rect x="-755.391" y="-3124.352" fill="none" width="91.333" height="16.668"/>
+	<text transform="matrix(1 0 0 1 -755.3911 -3115.6797)" font-family="'ProximaNova-Bold'" font-size="13">Login</text>
+	<rect x="-805.058" y="-3244.184" fill="none" width="91.333" height="16.666"/>
+	<text transform="matrix(1 0 0 1 -805.0576 -3236.8472)" font-family="'ProximaNova-Regular'" font-size="11">Email Address</text>
+	<rect x="-805.058" y="-3198.336" fill="none" width="91.333" height="16.667"/>
+	<text transform="matrix(1 0 0 1 -805.0576 -3190.999)" font-family="'ProximaNova-Regular'" font-size="11">Password</text>
+	<rect x="-805.058" y="-3149.851" fill="none" width="91.333" height="16.667"/>
+	
+		<text transform="matrix(1 0 0 1 -805.0576 -3143.8477)" font-family="'ProximaNova-Regular'" font-size="9" text-decoration=" underline">Forgot Password?</text>
+	<rect x="-813.812" y="-3064.167" fill="none" width="152.812" height="13.968"/>
+	
+		<text transform="matrix(1 0 0 1 -793.9971 -3058.1641)" font-family="'ProximaNova-Regular'" font-size="9" text-decoration=" underline">Click here to register for free</text>
+	<rect x="-817.74" y="-3077.2" fill="none" width="160.668" height="16.667"/>
+	<text transform="matrix(1 0 0 1 -785.5825 -3071.1973)" font-family="'ProximaNova-Regular'" font-size="9">Not a Curri member yet?</text>
+	<rect x="-1073.013" y="-2544.849" fill="none" width="74.471" height="8.334"/>
+	<text transform="matrix(1 0 0 1 -1059.8164 -2538.8457)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="9">28 </tspan><tspan x="13.158" y="0" font-family="'ProximaNova-Regular'" font-size="9">Students</tspan></text>
+	<rect x="-981.211" y="-2544.849" fill="none" width="45.137" height="8.334"/>
+	<text transform="matrix(1 0 0 1 -978.3477 -2538.8457)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="9">20 </tspan><tspan x="13.284" y="0" font-family="'ProximaNova-Regular'" font-size="9">Tracks</tspan></text>
+	<rect x="-981.211" y="-2473.87" fill="none" width="45.137" height="8.334"/>
+	<text transform="matrix(1 0 0 1 -977.4434 -2467.8672)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="9">15 </tspan><tspan x="11.475" y="0" font-family="'ProximaNova-Regular'" font-size="9">Tracks</tspan></text>
+	<rect x="-1073.013" y="-2473.87" fill="none" width="74.471" height="8.334"/>
+	<text transform="matrix(1 0 0 1 -1058.6914 -2467.8672)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="9">17 </tspan><tspan x="10.908" y="0" font-family="'ProximaNova-Regular'" font-size="9">Students</tspan></text>
+	
+		<rect x="-397.869" y="-3238.755" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="94.157" height="15.323"/>
+	
+		<rect x="-397.869" y="-3207.413" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="94.157" height="15.323"/>
+	<rect x="-398.379" y="-3264.061" fill="none" width="63.614" height="11.608"/>
+	<text transform="matrix(1 0 0 1 -398.3779 -3258.021)" font-family="'ProximaNova-Bold'" font-size="9.0544">Welcome Back!</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M-304.181-3158.436c0,2.75-2.25,5-5,5h-84.158
+			c-2.75,0-5-2.25-5-5v-5.322c0-2.75,2.25-5,5-5h84.158c2.75,0,5,2.25,5,5V-3158.436z"/>
+	</g>
+	<rect x="-365.18" y="-3164.811" fill="none" width="63.613" height="11.609"/>
+	<text transform="matrix(1 0 0 1 -365.1787 -3158.771)" font-family="'ProximaNova-Bold'" font-size="9.0544">Login</text>
+	<rect x="-398.379" y="-3248.273" fill="none" width="63.614" height="11.608"/>
+	<text transform="matrix(1 0 0 1 -398.3779 -3243.1631)" font-family="'ProximaNova-Regular'" font-size="7.6614">Email Address</text>
+	<rect x="-398.379" y="-3216.341" fill="none" width="63.614" height="11.608"/>
+	<text transform="matrix(1 0 0 1 -398.3779 -3211.2305)" font-family="'ProximaNova-Regular'" font-size="7.6614">Password</text>
+	<rect x="-398.379" y="-3182.57" fill="none" width="63.614" height="11.607"/>
+	
+		<text transform="matrix(1 0 0 1 -398.3779 -3178.3892)" font-family="'ProximaNova-Regular'" font-size="6.2684" text-decoration=" underline">Forgot Password?</text>
+	<rect x="-404.477" y="-3122.893" fill="none" width="106.434" height="9.729"/>
+	
+		<text transform="matrix(1 0 0 1 -390.6748 -3118.7114)" font-family="'ProximaNova-Regular'" font-size="6.2684" text-decoration=" underline">Click here to register for free</text>
+	<rect x="-407.211" y="-3131.971" fill="none" width="111.902" height="11.609"/>
+	<text transform="matrix(1 0 0 1 -384.8145 -3127.7896)" font-family="'ProximaNova-Regular'" font-size="6.2684">Not a Curri member yet?</text>
+	<rect x="-829.782" y="-2259.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2251.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">After registration confirmatio/login, user is taken to the classroom index view. If there are no pre-existing classrooms </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">created, the user sees a welcome message and a Create Classroom option, otherwise also sees other classrooms.</tspan></text>
+	<rect x="-829.782" y="-2190.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2182.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">In a blank state, the user can only create a new classroom.</tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">If classrooms have previously been created, then clicking that classroom will take the user to the Classroom Show view. </tspan></text>
+	<rect x="-292" y="-2272.143" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 -292 -2265.043)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Can we use conditional logic to display the </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">welcome message ONLY if there is a blank </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">state?</tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">If blank state --&gt; Welcome to Curri! + message</tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">else --&gt; Your Classrooms + list of classrooms</tspan></text>
+	<rect x="34.218" y="-2943.518" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2936.418)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">After clicking on Register on the landing page or on the login page, the user sees a registration form along with an </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">option to login if user has previously registered.</tspan></text>
+	<rect x="34.218" y="-2874.518" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2867.418)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Submit valid params to register--&gt; taken to confirmation view (email sent). Click token in email to complete registration.</tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">Submit invalid params (non unique email or insufficient password --&gt; error flash and new registration form.</tspan></text>
+	<rect x="572" y="-2961.018" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 572 -2953.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">During registration flow, if a user tries to </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">register with a previously used email, they </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">should be informed that the email is in use --&gt; </tspan><tspan x="0" y="42" font-family="'MyriadPro-Regular'" font-size="10">take to pswd reset page.</tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">If we have minimum password requirements, </tspan><tspan x="0" y="84" font-family="'MyriadPro-Regular'" font-size="10">they should be shown (in placeholder text?).</tspan></text>
+	
+		<rect x="59.674" y="-3230.518" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	
+		<rect x="59.674" y="-3185.518" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="58.942" y="-3266.851" fill="none" width="119.933" height="14.398"/>
+	<text transform="matrix(1 0 0 1 58.9424 -3258.1797)" font-family="'ProximaNova-Bold'" font-size="13">Welcome to Curri!</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M194.188-3126.138c0,2.75-2.25,5-5,5H64
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5h125.188c2.75,0,5,2.25,5,5V-3126.138z"/>
+	</g>
+	<rect x="67.385" y="-3136.472" fill="none" width="116.948" height="16.11"/>
+	<text transform="matrix(1 0 0 1 102.5312 -3127.8008)" font-family="'ProximaNova-Bold'" font-size="13">Sign Up</text>
+	<rect x="58.942" y="-3244.184" fill="none" width="91.333" height="16.667"/>
+	<text transform="matrix(1 0 0 1 58.9424 -3236.8472)" font-family="'ProximaNova-Regular'" font-size="11">Email Address</text>
+	<rect x="58.942" y="-3198.336" fill="none" width="91.333" height="16.667"/>
+	<text transform="matrix(1 0 0 1 58.9424 -3190.999)" font-family="'ProximaNova-Regular'" font-size="11">Password</text>
+	<rect x="50.188" y="-3076.167" fill="none" width="152.812" height="13.968"/>
+	
+		<text transform="matrix(1 0 0 1 90.8828 -3070.1641)" font-family="'ProximaNova-Regular'" font-size="9" text-decoration=" underline">Click here to login</text>
+	<rect x="46.26" y="-3089.2" fill="none" width="160.668" height="10.334"/>
+	<text transform="matrix(1 0 0 1 77.5664 -3083.1973)" font-family="'ProximaNova-Regular'" font-size="9">Already a Curri member?</text>
+	
+		<rect x="466.131" y="-3238.755" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="94.157" height="15.323"/>
+	
+		<rect x="466.131" y="-3207.413" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="94.157" height="15.323"/>
+	<rect x="465.621" y="-3264.061" fill="none" width="100.336" height="15.787"/>
+	<text transform="matrix(1 0 0 1 465.6211 -3258.0215)" font-family="'ProximaNova-Bold'" font-size="9.0544">Welcome to Curri!</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M559.819-3164.435c0,2.75-2.25,5-5,5h-84.158
+			c-2.75,0-5-2.25-5-5v-5.323c0-2.75,2.25-5,5-5h84.158c2.75,0,5,2.25,5,5V-3164.435z"/>
+	</g>
+	<rect x="473.6" y="-3170.186" fill="none" width="78.281" height="11.609"/>
+	<text transform="matrix(1 0 0 1 496.4922 -3164.1465)" font-family="'ProximaNova-Bold'" font-size="9.0544">Sign Up</text>
+	<rect x="465.621" y="-3248.273" fill="none" width="63.614" height="11.608"/>
+	<text transform="matrix(1 0 0 1 465.6221 -3243.1631)" font-family="'ProximaNova-Regular'" font-size="7.6614">Email Address</text>
+	<rect x="465.621" y="-3216.341" fill="none" width="63.614" height="11.608"/>
+	<text transform="matrix(1 0 0 1 465.6221 -3211.2305)" font-family="'ProximaNova-Regular'" font-size="7.6614">Password</text>
+	<rect x="459.523" y="-3132.892" fill="none" width="106.434" height="9.728"/>
+	
+		<text transform="matrix(1 0 0 1 487.8682 -3128.7114)" font-family="'ProximaNova-Regular'" font-size="6.2684" text-decoration=" underline">Click here to login</text>
+	<rect x="456.789" y="-3141.971" fill="none" width="111.902" height="5.805"/>
+	<text transform="matrix(1 0 0 1 478.5938 -3137.7905)" font-family="'ProximaNova-Regular'" font-size="6.2684">Already a Curri member?</text>
+	<rect x="-829.782" y="-2710.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2695.7979)" font-family="'MyriadPro-Bold'" font-size="20">Create Classroom: 1</text>
+	<rect x="-829.782" y="-3394.518" fill="none" width="249" height="24.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -3380.2979)" font-family="'MyriadPro-Bold'" font-size="20">Login</text>
+	<rect x="34.218" y="-3394.518" fill="none" width="249" height="24.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -3380.2979)" font-family="'MyriadPro-Bold'" font-size="20">Register: Step 1</text>
+	<rect x="896.675" y="-2943.518" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2936.418)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">After filling out the registration form with valid params (unique email ID), the user sees a notice asking them to confirm </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">by clicking the link in the email sent to them. (Do we need a  ‘resend email’ link on this screen?)</tspan></text>
+	<rect x="896.675" y="-2874.518" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2867.418)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Checks their inbox for the email, clicks the tokenized link in it and is taken to EITHER another confirmation screen </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">thanking them to confirm and asking them to now log in OR directly logs them in and takes the to Add Classroom view.</tspan></text>
+	<rect x="1434.457" y="-2961.018" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 1434.457 -2953.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Currently, right after registration, the user is </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">logged in automatically assuming a unique </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">email ID is provided. </tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">However, I think we’re missing a step by not </tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">have the user confirm that they own that email </tspan><tspan x="0" y="84" font-family="'MyriadPro-Regular'" font-size="10">ID, as most sites make you do before giving </tspan><tspan x="0" y="98" font-family="'MyriadPro-Regular'" font-size="10">you access to that account.</tspan></text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-miterlimit="10" d="M1315.249-3156.851c0,2.75-2.25,5-5,5h-69.665c-2.75,0-5-2.25-5-5
+			v-3.999c0-2.75,2.25-5,5-5h69.665c2.75,0,5,2.25,5,5V-3156.851z"/>
+	</g>
+	<rect x="1241.219" y="-3162.184" fill="none" width="67.614" height="16.11"/>
+	<text transform="matrix(1 0 0 1 1249.3027 -3156.8481)" font-family="'ProximaNova-Bold'" font-size="8">Re-send Email</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-miterlimit="10" d="M998.757-3119.406c0,2.75-2.25,5-5,5h-69.665c-2.75,0-5-2.25-5-5
+			v-3.999c0-2.75,2.25-5,5-5h69.665c2.75,0,5,2.25,5,5V-3119.406z"/>
+	</g>
+	<rect x="924.727" y="-3124.739" fill="none" width="67.614" height="16.11"/>
+	<text transform="matrix(1 0 0 1 932.8105 -3119.4033)" font-family="'ProximaNova-Bold'" font-size="8">Re-send Email</text>
+	<rect x="1235.584" y="-3259.651" fill="none" width="287.143" height="79.982"/>
+	<text transform="matrix(1 0 0 1 1235.584 -3251.6475)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="12">Thank you for registering! </tspan><tspan x="0" y="26" font-family="'ProximaNova-Regular'" font-size="10">Please click the link in the email we just sent to you in order to </tspan><tspan x="0" y="39" font-family="'ProximaNova-Regular'" font-size="10">complete the registration process.</tspan><tspan x="0" y="58.502" font-family="'ProximaNova-Regular'" font-size="7.6614">If you haven’t received the email, make sure to check your spam folder. The email will </tspan><tspan x="0" y="68.252" font-family="'ProximaNova-Regular'" font-size="7.6614">be sent from xyz@curriapp.com.</tspan></text>
+	<rect x="918.161" y="-3259.651" fill="none" width="143.571" height="127.557"/>
+	<text transform="matrix(1 0 0 1 918.1611 -3251.6475)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="12">Thank you for registering! </tspan><tspan x="0" y="26" font-family="'ProximaNova-Regular'" font-size="10">Please click the link in the email </tspan><tspan x="0" y="39" font-family="'ProximaNova-Regular'" font-size="10">we just sent to you in order to </tspan><tspan x="0" y="52" font-family="'ProximaNova-Regular'" font-size="10">complete the registration </tspan><tspan x="0" y="65" font-family="'ProximaNova-Regular'" font-size="10">process.</tspan><tspan x="0" y="84.502" font-family="'ProximaNova-Regular'" font-size="7.6614">If you haven’t received the email, make </tspan><tspan x="0" y="94.252" font-family="'ProximaNova-Regular'" font-size="7.6614">sure to check your spam folder. The email </tspan><tspan x="0" y="104.003" font-family="'ProximaNova-Regular'" font-size="7.6614">will be sent from xyz@curriapp.com.</tspan></text>
+	<rect x="896.675" y="-3394.518" fill="none" width="249" height="24.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -3380.2979)" font-family="'MyriadPro-Bold'" font-size="20">Register: Step 2</text>
+	<rect x="-814.272" y="-2423.406" fill="none" stroke="#939598" stroke-miterlimit="10" width="154.271" height="48.667"/>
+	<rect x="-779.804" y="-2402.072" fill="none" width="85.333" height="24"/>
+	<text transform="matrix(1 0 0 1 -777.5713 -2395.4023)" fill="#A7A9AC" font-family="'ProximaNova-Bold'" font-size="10">Create Classroom</text>
+	<rect x="-813.77" y="-2494.037" fill="none" stroke="#6D6E71" stroke-miterlimit="10" width="154.271" height="48.667"/>
+	<rect x="-779.301" y="-2472.703" fill="none" width="85.333" height="24"/>
+	<text transform="matrix(1 0 0 1 -778.8188 -2466.0332)" fill="#6D6E71" font-family="'ProximaNova-Bold'" font-size="10">Sample Classroom</text>
+	<rect x="-414.173" y="-2512.865" fill="none" stroke="#939598" stroke-miterlimit="10" width="116.378" height="48.667"/>
+	<rect x="-398.651" y="-2491.531" fill="none" width="85.334" height="24"/>
+	<text transform="matrix(1 0 0 1 -396.418 -2484.8613)" fill="#A7A9AC" font-family="'ProximaNova-Bold'" font-size="10">Create Classroom</text>
+	<rect x="-549.272" y="-2512.865" fill="none" stroke="#6D6E71" stroke-miterlimit="10" width="116.377" height="48.667"/>
+	<rect x="-533.751" y="-2491.531" fill="none" width="85.334" height="24"/>
+	<text transform="matrix(1 0 0 1 -533.2686 -2484.8613)" fill="#6D6E71" font-family="'ProximaNova-Bold'" font-size="10">Sample Classroom</text>
+	
+		<rect x="-1081.58" y="-2582.183" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="154.271" height="48.667"/>
+	<rect x="-1058.321" y="-2568.849" fill="none" width="107.753" height="24"/>
+	<text transform="matrix(1 0 0 1 -1058.2241 -2562.1787)" font-family="'ProximaNova-Bold'" font-size="10">Summer Academy 2013</text>
+	<rect x="-813.268" y="-2574.195" fill="none" width="153.266" height="75.498"/>
+	<text transform="matrix(1 0 0 1 -813.2681 -2566.1914)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="12">Welcome to Curri!</tspan><tspan x="0" y="28" font-family="'ProximaNova-Regular'" font-size="10">You are minutes away from </tspan><tspan x="0" y="42" font-family="'ProximaNova-Regular'" font-size="10">creating your first classroom- click </tspan><tspan x="0" y="56" font-family="'ProximaNova-Regular'" font-size="10">the box below to get started.</tspan></text>
+	<rect x="-550.171" y="-2574.264" fill="none" width="397.822" height="49.413"/>
+	<text transform="matrix(1 0 0 1 -550.1709 -2566.2598)"><tspan x="0" y="0" font-family="'ProximaNova-Bold'" font-size="12">Welcome to Curri!</tspan><tspan x="0" y="28" font-family="'ProximaNova-Regular'" font-size="10">You are minutes away from creating your first classroom- click the box below to get </tspan></text>
+	
+		<rect x="-1081.58" y="-2511.03" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="154.271" height="48.667"/>
+	<rect x="-1072.444" y="-2498.697" fill="none" width="136" height="10.166"/>
+	<text transform="matrix(1 0 0 1 -1059.7637 -2492.0273)" font-family="'ProximaNova-Bold'" font-size="10">HY Fall 2013 HTML+CSS</text>
+	
+		<rect x="-1081.58" y="-2550.195" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="91.604" height="16.68"/>
+	
+		<rect x="-989.976" y="-2550.195" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="62.667" height="16.68"/>
+	
+		<rect x="-1081.58" y="-2479.043" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="91.604" height="16.68"/>
+	
+		<rect x="-989.976" y="-2479.043" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="62.667" height="16.68"/>
+	<rect x="-261.668" y="-2636.65" fill="none" width="155.45" height="7.115"/>
+	<text transform="matrix(1 0 0 1 -261.668 -2629.9805)" font-family="'ProximaNova-Bold'" font-size="10">Profile        Logout</text>
+	<rect x="34.218" y="-2259.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2251.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">After clicking ‘Create Classroom’ the user is taken to this screen.  The classroom name field is required while the descri</tspan><tspan x="492.829" y="0" font-family="'MyriadPro-Regular'" font-size="10">-</tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">tion field is optional, and can be edited anytime.</tspan></text>
+	<rect x="34.218" y="-2190.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2182.918)" font-family="'MyriadPro-Regular'" font-size="10">On clicking Save, the classroom and associated tracks will be created and show up on the classroom view page. </text>
+	<rect x="572" y="-2272.143" fill="none" width="196" height="144.125"/>
+	<rect x="34.218" y="-2710.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2695.7979)" font-family="'MyriadPro-Bold'" font-size="20">Create Classroom: 2</text>
+	<rect x="50.732" y="-2584.195" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -2576.1914)" font-family="'ProximaNova-Bold'" font-size="12">Create Classroom</text>
+	<rect x="50.732" y="-2558.526" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -2551.8564)" font-family="'ProximaNova-Regular'" font-size="10">Classroom Name</text>
+	<rect x="34.218" y="-1567.018" fill="none" width="497.775" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -1559.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">In any given classroom, clicking Create Track will take the user to this view. The user sees fields for track name and </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">placeholder filled fields for add start/end date/time. This is a fair amount of information, and the user might be </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">confused by us asking to provide start and end times/dates without knowing why.</tspan></text>
+	<rect x="34.218" y="-1498.018" fill="none" width="497.775" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -1490.918)" font-family="'MyriadPro-Regular'" font-size="10">Ideally, the user fills in the name and the other fields and saves.</text>
+	<rect x="572.001" y="-1580.143" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 572 -1573.043)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">This is a place where I feel that we need a </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">teachable moment- why are we asking up </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">front for start and end dates/times?</tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">Maybe a info icon with a tooltip? A place </tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">where we can say leave the default dates/</tspan><tspan x="173.367" y="70" font-family="'MyriadPro-Regular'" font-size="10">-</tspan><tspan x="0" y="84" font-family="'MyriadPro-Regular'" font-size="10">times for now, you can always change them </tspan><tspan x="0" y="98" font-family="'MyriadPro-Regular'" font-size="10">later to look at the analytics more accurately.</tspan></text>
+	<rect x="34.218" y="-2018.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -2003.7979)" font-family="'MyriadPro-Bold'" font-size="20">Add Track: 2</text>
+	<rect x="50.732" y="-1892.361" fill="none" width="153.266" height="12.345"/>
+	<text transform="matrix(1 0 0 1 50.7324 -1884.3574)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom</text>
+	<rect x="314.728" y="-1899.372" fill="none" width="114.949" height="9.26"/>
+	<text transform="matrix(1 0 0 1 314.7266 -1893.3691)" font-family="'ProximaNova-Bold'" font-size="9">First Classroom</text>
+	<rect x="480.771" y="-1944.65" fill="none" width="277.011" height="7.115"/>
+	<text transform="matrix(1 0 0 1 480.7715 -1937.9805)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Tracks           Profile        Logout</text>
+	<rect x="-383.229" y="-1257.227" fill="none" width="277.011" height="7.115"/>
+	<text transform="matrix(1 0 0 1 -383.2285 -1250.5566)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Tracks           Profile        Logout</text>
+	<rect x="-383.229" y="-576.633" fill="none" width="277.011" height="7.115"/>
+	<text transform="matrix(1 0 0 1 -383.2285 -569.9629)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Tracks           Profile        Logout</text>
+	<rect x="532.567" y="-2637.227" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 532.5674 -2630.5566)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="896.675" y="-1567.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 -1559.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">An alternate view could be for the user that wants to add multiple tracks on the same page. A toggle/menu option of </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">single track/multi track is present.</tspan></text>
+	<rect x="896.675" y="-1498.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 -1490.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">After filling out the first track information, the user wants to add another track. They click the Add another track link and </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">a new set of fields for another track appear below the first one. Save button moves down.</tspan></text>
+	<rect x="1434.457" y="-1580.143" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 1434.457 -1573.043)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">This could be lower priority for the alpha, if we </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">get other stuff done, then we could implement </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">this.</tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">Single/multi track toggle could disappear </tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">entirely, and just have the ‘add another track’ </tspan><tspan x="0" y="84" font-family="'MyriadPro-Regular'" font-size="10">link appear at the bottom by default. How will </tspan><tspan x="0" y="98" font-family="'MyriadPro-Regular'" font-size="10">the info icon be treated in this case- repeated </tspan><tspan x="0" y="112" font-family="'MyriadPro-Regular'" font-size="10">with each set of track details?? </tspan></text>
+	<rect x="896.675" y="-2018.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2003.7979)" font-family="'MyriadPro-Bold'" font-size="20">Add Tracks: Alternate</text>
+	
+		<rect x="50.732" y="-2545.018" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="50.732" y="-2505.169" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -2498.499)" font-family="'ProximaNova-Regular'" font-size="10">Description</text>
+	
+		<rect x="50.732" y="-2490.66" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M187.554-2428.406c0,2.75-2.25,5-5,5H57.366
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5h125.188c2.75,0,5,2.25,5,5V-2428.406z"/>
+	</g>
+	<rect x="60.751" y="-2438.739" fill="none" width="116.948" height="16.11"/>
+	<text transform="matrix(1 0 0 1 104.8672 -2430.0684)" font-family="'ProximaNova-Bold'" font-size="13">Save</text>
+	<rect x="436.107" y="-2589.723" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 436.1074 -2581.7188)" font-family="'ProximaNova-Bold'" font-size="12">Create Classroom</text>
+	<rect x="436.107" y="-2564.054" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 436.1074 -2557.3838)" font-family="'ProximaNova-Regular'" font-size="10">Classroom Name</text>
+	
+		<rect x="436.107" y="-2550.545" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="50.732" y="-1865.3" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -1858.6299)" font-family="'ProximaNova-Regular'" font-size="10">Track Name</text>
+	
+		<rect x="50.732" y="-1851.791" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="314.728" y="-1874.446" fill="none" width="70.2" height="9.008"/>
+	<text transform="matrix(1 0 0 1 314.7266 -1869.4453)" font-family="'ProximaNova-Regular'" font-size="7.5">Track Name</text>
+	
+		<rect x="314.728" y="-1864.315" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="50.732" y="-1787.285" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -1780.6152)" font-family="'ProximaNova-Regular'" font-size="10">Track Start Date</text>
+	<rect x="50.732" y="-1812.776" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -1806.1064)" font-family="'ProximaNova-Bold'" font-size="10">Track Details</text>
+	
+		<rect x="50.732" y="-1773.776" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="50.732" y="-1742.198" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -1735.5283)" font-family="'ProximaNova-Regular'" font-size="10">Track Start Time</text>
+	
+		<rect x="50.732" y="-1728.689" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="50.732" y="-1696.851" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 50.7324 -1690.1807)" font-family="'ProximaNova-Regular'" font-size="10">Track End Date</text>
+	
+		<rect x="50.732" y="-1683.342" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="912.934" y="-1892.361" fill="none" width="153.266" height="12.345"/>
+	<text transform="matrix(1 0 0 1 912.9336 -1884.3574)" font-family="'ProximaNova-Bold'" font-size="12">Sample Classroom</text>
+	<rect x="912.934" y="-1845.791" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 912.9336 -1839.1211)" font-family="'ProximaNova-Regular'" font-size="10">Track Name</text>
+	<rect x="912.934" y="-1867.291" fill="none" width="135.188" height="8.773"/>
+	<text transform="matrix(1 0 0 1 912.9336 -1861.9551)"><tspan x="0" y="0" font-family="'ProximaNova-Regular'" font-size="8">Single Track</tspan><tspan x="43.383" y="0" font-family="'ProximaNova-Regular'" font-size="8" letter-spacing="26">	</tspan><tspan x="72" y="0" font-family="'ProximaNova-Regular'" font-size="8">Multi Track</tspan></text>
+	
+		<rect x="912.934" y="-1832.282" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="912.934" y="-1797.776" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 912.9336 -1791.1064)" font-family="'ProximaNova-Regular'" font-size="10">Track Start Date</text>
+	
+		<rect x="912.934" y="-1784.268" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="912.934" y="-1752.689" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 912.9336 -1746.0195)" font-family="'ProximaNova-Regular'" font-size="10">Track Start Time</text>
+	
+		<rect x="912.934" y="-1739.181" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="912.934" y="-1707.342" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 912.9336 -1700.6719)" font-family="'ProximaNova-Regular'" font-size="10">Track End Date</text>
+	
+		<rect x="912.934" y="-1693.833" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="314.728" y="-1810.335" fill="none" width="70.2" height="9.009"/>
+	<text transform="matrix(1 0 0 1 314.7266 -1805.333)" font-family="'ProximaNova-Regular'" font-size="7.5">Track Start Date</text>
+	
+		<rect x="314.728" y="-1800.204" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="429.677" y="-1810.37" fill="none" width="70.201" height="9.01"/>
+	<text transform="matrix(1 0 0 1 429.6758 -1805.3682)" font-family="'ProximaNova-Regular'" font-size="7.5">Track Start Time</text>
+	
+		<rect x="429.677" y="-1800.237" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="314.728" y="-1773.189" fill="none" width="70.2" height="9.009"/>
+	<text transform="matrix(1 0 0 1 314.7266 -1768.1885)" font-family="'ProximaNova-Regular'" font-size="7.5">Track End Date</text>
+	
+		<rect x="314.728" y="-1763.058" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="429.677" y="-1773.187" fill="none" width="70.201" height="9.009"/>
+	<text transform="matrix(1 0 0 1 429.6758 -1768.1846)" font-family="'ProximaNova-Regular'" font-size="7.5">Track End Time</text>
+	
+		<rect x="429.677" y="-1762.95" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.287"/>
+	<rect x="1178.685" y="-1860.05" fill="none" width="70.2" height="9.009"/>
+	<text transform="matrix(1 0 0 1 1178.6836 -1855.0488)" font-family="'ProximaNova-Regular'" font-size="7.5">Track Name</text>
+	
+		<rect x="1178.685" y="-1849.918" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="1178.685" y="-1821.212" fill="none" width="70.2" height="9.009"/>
+	<text transform="matrix(1 0 0 1 1178.6836 -1816.2109)" font-family="'ProximaNova-Regular'" font-size="7.5">Track Start Date</text>
+	
+		<rect x="1178.685" y="-1811.08" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="1293.634" y="-1821.246" fill="none" width="70.2" height="9.008"/>
+	<text transform="matrix(1 0 0 1 1293.6328 -1816.2461)" font-family="'ProximaNova-Regular'" font-size="7.5">Track Start Time</text>
+	
+		<rect x="1293.634" y="-1811.115" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="1178.685" y="-1784.066" fill="none" width="70.2" height="9.009"/>
+	<text transform="matrix(1 0 0 1 1178.6836 -1779.0645)" font-family="'ProximaNova-Regular'" font-size="7.5">Track End Date</text>
+	
+		<rect x="1178.685" y="-1773.936" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.5"/>
+	<rect x="1293.634" y="-1784.063" fill="none" width="70.2" height="9.009"/>
+	<text transform="matrix(1 0 0 1 1293.6328 -1779.0625)" font-family="'ProximaNova-Regular'" font-size="7.5">Track End Time</text>
+	
+		<rect x="1293.634" y="-1773.826" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="101.391" height="16.285"/>
+	<rect x="57.882" y="-2482.193" fill="none" width="138.455" height="12.012"/>
+	<text transform="matrix(1 0 0 1 57.8818 -2476.8574)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Optional</text>
+	<rect x="436.107" y="-2511.914" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 436.1074 -2505.2441)" font-family="'ProximaNova-Regular'" font-size="10">Description</text>
+	
+		<rect x="436.107" y="-2497.405" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="22"/>
+	<rect x="443.257" y="-2488.938" fill="none" width="138.455" height="12.012"/>
+	<text transform="matrix(1 0 0 1 443.2568 -2483.6025)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Optional</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M571.295-2433.128c0,2.75-2.25,5-5,5H441.107
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5h125.188c2.75,0,5,2.25,5,5V-2433.128z"/>
+	</g>
+	<rect x="444.492" y="-2443.461" fill="none" width="116.948" height="16.11"/>
+	<text transform="matrix(1 0 0 1 488.6074 -2434.79)" font-family="'ProximaNova-Bold'" font-size="13">Save</text>
+	<rect x="896.675" y="-2259.018" fill="none" width="497.774" height="38"/>
+	<rect x="896.675" y="-2190.018" fill="none" width="497.774" height="38"/>
+	<rect x="1434.457" y="-2272.143" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 1434.457 -2265.043)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">A few more details showing what information </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">should go in each classroom unit in the </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">classrooms index view.</tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">Clicking edit could bring up a modal popup </tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">with options to edit name/description. Clicking </tspan><tspan x="0" y="84" font-family="'MyriadPro-Regular'" font-size="10">delete would result in a confirmation popup.</tspan></text>
+	<rect x="896.675" y="-2710.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -2695.7979)" font-family="'MyriadPro-Bold'" font-size="20">Classroom: Unit</text>
+	<rect x="913.189" y="-2584.195" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 913.1895 -2576.1914)" font-family="'ProximaNova-Bold'" font-size="12">My Classrooms</text>
+	<rect x="1779.778" y="-1891.931" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1779.7783 -1883.9268)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Tracks</text>
+	<rect x="921.189" y="-2551.545" fill="none" width="111.311" height="9.527"/>
+	<text transform="matrix(1 0 0 1 921.1895 -2544.875)" font-family="'ProximaNova-Regular'" font-size="10">HackerYou Winter 2014</text>
+	<rect x="943.617" y="-2492.411" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 943.6172 -2485.7412)" font-family="'ProximaNova-Regular'" font-size="10">32 students joined</text>
+	<rect x="943.617" y="-2468.417" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 943.6172 -2461.7471)" font-family="'ProximaNova-Regular'" font-size="10">14 tracks</text>
+	<rect x="1395.024" y="-2637.227" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 1395.0244 -2630.5566)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="1177.185" y="-2590.201" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1177.1846 -2582.1973)" font-family="'ProximaNova-Bold'" font-size="12">My Classrooms</text>
+	<rect x="921.189" y="-2527.933" fill="none" width="138.455" height="25.03"/>
+	<text transform="matrix(1 0 0 1 921.1895 -2522.5967)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Optional classroom description goes </tspan><tspan x="0" y="11" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">here. This is the second sentence. </tspan></text>
+	<rect x="924.502" y="-2441.253" fill="none" width="54.498" height="8.947"/>
+	
+		<text transform="matrix(1 0 0 1 924.502 -2435.917)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Edit Classroom</text>
+	<rect x="-223.5" y="-1899.372" fill="none" width="62.423" height="9.26"/>
+	
+		<text transform="matrix(1 0 0 1 -223.5 -1894.0361)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Students</text>
+	<rect x="994" y="-2441.253" fill="none" width="63.502" height="6.75"/>
+	
+		<text transform="matrix(1 0 0 1 994 -2435.917)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Delete Classroom</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M416.118-1716.776c0,2.75-2.25,5-5,5h-91.391
+			c-2.75,0-5-2.25-5-5v-6.5c0-2.75,2.25-5,5-5h91.391c2.75,0,5,2.25,5,5V-1716.776z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-miterlimit="10" d="M1029.862-1863.518c0,2.75-2.25,5-5,5h-41.335c-2.75,0-5-2.25-5-5
+			v-2.782c0-2.75,2.25-5,5-5h41.335c2.75,0,5,2.25,5,5V-1863.518z"/>
+	</g>
+	<rect x="1178.685" y="-1902.971" fill="none" width="114.949" height="9.258"/>
+	<text transform="matrix(1 0 0 1 1178.6836 -1896.9697)" font-family="'ProximaNova-Bold'" font-size="9">Sample Classroom</text>
+	<rect x="1178.685" y="-1882.918" fill="none" width="101.391" height="6.58"/>
+	<text transform="matrix(1 0 0 1 1178.6836 -1878.918)"><tspan x="0" y="0" font-family="'ProximaNova-Regular'" font-size="6">Single Track</tspan><tspan x="32.535" y="0" font-family="'ProximaNova-Regular'" font-size="6" letter-spacing="19">	</tspan><tspan x="53.998" y="0" font-family="'ProximaNova-Regular'" font-size="6">Multi Track</tspan></text>
+	<rect x="1178.685" y="-1736.669" fill="none" width="101.391" height="6.58"/>
+	
+		<text transform="matrix(1 0 0 1 1178.6836 -1731.334)" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Add Another Track</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-miterlimit="10" d="M1266.381-1881.131c0,2.636-2.25,4.793-5,4.793h-28.501
+			c-2.75,0-5-2.157-5-4.793c0-2.637,2.25-4.794,5-4.794h28.501C1264.131-1885.925,1266.381-1883.768,1266.381-1881.131z"/>
+	</g>
+	<rect x="321.016" y="-1723.276" fill="none" width="87.711" height="12.084"/>
+	<text transform="matrix(1 0 0 1 354.1025 -1716.7734)" font-family="'ProximaNova-Bold'" font-size="9.75">Save</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M1278.575-1710.588c0,2.75-2.25,5-5,5h-91.391
+			c-2.75,0-5-2.25-5-5v-6.5c0-2.75,2.25-5,5-5h91.391c2.75,0,5,2.25,5,5V-1710.588z"/>
+	</g>
+	<rect x="1183.473" y="-1717.088" fill="none" width="87.711" height="12.083"/>
+	<text transform="matrix(1 0 0 1 1216.5596 -1710.585)" font-family="'ProximaNova-Bold'" font-size="9.75">Save</text>
+	
+		<line fill="none" stroke="#A7A9AC" stroke-width="0.5" stroke-miterlimit="10" x1="1178.685" y1="-1748.326" x2="1395.024" y2="-1748.326"/>
+	<rect x="315.498" y="-416.629" fill="none" width="101.391" height="6.58"/>
+	
+		<text transform="matrix(1 0 0 1 315.4971 -411.2939)" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Add Another Checkpoint</text>
+	
+		<line fill="none" stroke="#A7A9AC" stroke-width="0.5" stroke-miterlimit="10" x1="315.498" y1="-424.286" x2="531.838" y2="-424.286"/>
+	<rect x="56.831" y="-357.609" fill="none" width="101.391" height="6.58"/>
+	
+		<text transform="matrix(1 0 0 1 56.8301 -352.2744)" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Add Another Checkpoint</text>
+	
+		<line fill="none" stroke="#A7A9AC" stroke-width="0.5" stroke-miterlimit="10" x1="56.831" y1="-365.267" x2="189.188" y2="-365.267"/>
+	<path d="M181.666-1817.282c-3.865,0-7,3.134-7,7s3.135,7,7,7c3.867,0,7-3.134,7-7S185.533-1817.282,181.666-1817.282z
+		 M182.257-1806.427h-1.397v-5.313h1.397V-1806.427z M181.553-1812.312c-0.451,0-0.836-0.374-0.836-0.836s0.385-0.825,0.836-0.825
+		c0.462,0,0.836,0.363,0.836,0.825S182.015-1812.312,181.553-1812.312z"/>
+	<path d="M180.443-443.449c-3.19,0-5.777,2.586-5.777,5.776c0,3.191,2.587,5.777,5.777,5.777c3.191,0,5.776-2.586,5.776-5.777
+		C186.22-440.863,183.635-443.449,180.443-443.449z M180.931-434.491h-1.153v-4.385h1.153V-434.491z M180.35-439.348
+		c-0.373,0-0.69-0.31-0.69-0.69s0.317-0.681,0.69-0.681c0.381,0,0.689,0.3,0.689,0.681S180.73-439.348,180.35-439.348z"/>
+	<path d="M394.297-466.578c-2.25,0-4.074,1.824-4.074,4.074s1.824,4.074,4.074,4.074c2.251,0,4.074-1.824,4.074-4.074
+		S396.548-466.578,394.297-466.578z M394.641-460.26h-0.813v-3.093h0.813V-460.26z M394.23-463.686
+		c-0.263,0-0.486-0.218-0.486-0.486c0-0.27,0.224-0.48,0.486-0.48c0.27,0,0.486,0.211,0.486,0.48
+		C394.717-463.903,394.5-463.686,394.23-463.686z"/>
+	<path d="M1041.332-1895.188c-3.865,0-7,3.134-7,7s3.135,7,7,7c3.867,0,7-3.134,7-7S1045.199-1895.188,1041.332-1895.188z
+		 M1041.923-1884.333h-1.397v-5.313h1.397V-1884.333z M1041.219-1890.219c-0.451,0-0.836-0.374-0.836-0.836s0.385-0.825,0.836-0.825
+		c0.462,0,0.836,0.363,0.836,0.825S1041.681-1890.219,1041.219-1890.219z"/>
+	<rect x="314.728" y="-1833.593" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 314.7275 -1826.9229)" font-family="'ProximaNova-Bold'" font-size="10">Track Details</text>
+	<path d="M413.477-1834.541c-2.624,0-4.75,2.126-4.75,4.75s2.126,4.75,4.75,4.75s4.751-2.126,4.751-4.75
+		S416.101-1834.541,413.477-1834.541z M413.877-1827.175h-0.948v-3.605h0.948V-1827.175z M413.398-1831.169
+		c-0.306,0-0.566-0.254-0.566-0.567s0.261-0.56,0.566-0.56c0.313,0,0.567,0.246,0.567,0.56S413.712-1831.169,413.398-1831.169z"/>
+	<rect x="-829.782" y="-1567.018" fill="none" width="497.775" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1559.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Clicking any given classroom will take the user to this view. The user sees an option to create a track, as well as a list of </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">previously created tracks. Also present is a link/button to manage students for this classroom. </tspan></text>
+	<rect x="-829.782" y="-1498.018" fill="none" width="497.775" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1490.918)" font-family="'MyriadPro-Regular'" font-size="10">The user can either go into the details for a previously created track by clicking it, or create a new track.</text>
+	<rect x="-291.999" y="-1580.143" fill="none" width="196" height="144.125"/>
+	<rect x="-829.782" y="-2018.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -2003.7979)" font-family="'MyriadPro-Bold'" font-size="20">Add Track: 1</text>
+	<rect x="-813.268" y="-1892.361" fill="none" width="153.266" height="12.345"/>
+	<text transform="matrix(1 0 0 1 -813.2676 -1884.3574)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom</text>
+	<rect x="-549.272" y="-1899.372" fill="none" width="114.949" height="9.26"/>
+	<text transform="matrix(1 0 0 1 -549.2734 -1893.3691)" font-family="'ProximaNova-Bold'" font-size="9">First Classroom</text>
+	<rect x="-331.601" y="-1944.65" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 -331.6006 -1937.9805)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<path d="M1271.791-1905.122c-2.624,0-4.75,2.126-4.75,4.75s2.126,4.75,4.75,4.75c2.623,0,4.75-2.126,4.75-4.75
+		S1274.414-1905.122,1271.791-1905.122z M1272.191-1897.756h-0.948v-3.605h0.948V-1897.756z M1271.713-1901.75
+		c-0.306,0-0.566-0.254-0.566-0.567s0.261-0.56,0.566-0.56c0.313,0,0.567,0.246,0.567,0.56S1272.026-1901.75,1271.713-1901.75z"/>
+	<rect x="2259.024" y="-1944.65" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 2259.0244 -1937.9805)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="1760.675" y="-1567.018" fill="none" width="497.774" height="38"/>
+	<rect x="1760.675" y="-1498.018" fill="none" width="497.774" height="38"/>
+	<rect x="2298.457" y="-1580.143" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 2298.457 -1573.043)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Similar to the classroom unit, this is to show </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">details of information contained in a tracks </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">unit in the tracks index view.</tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">There is scope to include some useful analytics </tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">data here that would add to the functionality </tspan><tspan x="0" y="84" font-family="'MyriadPro-Regular'" font-size="10">of the app:how about a bar showing response </tspan><tspan x="0" y="98" font-family="'MyriadPro-Regular'" font-size="10">rate for that track? #received responses/#of </tspan><tspan x="0" y="112" font-family="'MyriadPro-Regular'" font-size="10">possible responses?</tspan></text>
+	<rect x="1760.675" y="-2018.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 1760.6748 -2003.7979)" font-family="'MyriadPro-Bold'" font-size="20">Track: Unit</text>
+	<rect x="-813.77" y="-1768.109" fill="none" stroke="#939598" stroke-miterlimit="10" width="154.271" height="48.667"/>
+	<rect x="-779.301" y="-1746.775" fill="none" width="85.333" height="24"/>
+	<text transform="matrix(1 0 0 1 -765.6792 -1740.1055)" fill="#A7A9AC" font-family="'ProximaNova-Bold'" font-size="10">Create Track</text>
+	<rect x="-813.77" y="-1837.814" fill="none" stroke="#6D6E71" stroke-miterlimit="10" width="154.271" height="48.667"/>
+	<rect x="-779.301" y="-1816.48" fill="none" width="85.333" height="24"/>
+	<text transform="matrix(1 0 0 1 -758.6494 -1809.8105)" fill="#6D6E71" font-family="'ProximaNova-Bold'" font-size="10">Track abc</text>
+	<rect x="-549.987" y="-1852.148" fill="none" stroke="#939598" stroke-miterlimit="10" width="116.377" height="48.667"/>
+	<rect x="-534.465" y="-1830.814" fill="none" width="85.334" height="24"/>
+	<text transform="matrix(1 0 0 1 -520.8428 -1824.1445)" fill="#A7A9AC" font-family="'ProximaNova-Bold'" font-size="10">Create Track</text>
+	<rect x="-416.449" y="-1852.148" fill="none" stroke="#6D6E71" stroke-miterlimit="10" width="116.378" height="48.667"/>
+	<rect x="-400.928" y="-1830.814" fill="none" width="85.335" height="24"/>
+	<text transform="matrix(1 0 0 1 -380.2754 -1824.1445)" fill="#6D6E71" font-family="'ProximaNova-Bold'" font-size="10">Track abc</text>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" d="M1061.957-2435.919c0,2.75-2.25,5-5,5H918.189c-2.75,0-5-2.25-5-5
+			v-118.5c0-2.75,2.25-5,5-5h138.768c2.75,0,5,2.25,5,5V-2435.919z"/>
+	</g>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="913.189" y1="-2536.018" x2="1061.957" y2="-2536.018"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="913.189" y1="-2445.518" x2="1061.957" y2="-2445.518"/>
+	<rect x="921.189" y="-2495.938" fill="#A7A9AC" width="13.865" height="13.533"/>
+	<rect x="921.189" y="-2471.938" fill="#A7A9AC" width="13.865" height="13.533"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="987.573" y1="-2445.518" x2="987.573" y2="-2430.919"/>
+	<rect x="1787.183" y="-1854.152" fill="none" width="111.311" height="9.527"/>
+	<text transform="matrix(1 0 0 1 1787.1826 -1847.4824)" font-family="'ProximaNova-Bold'" font-size="10">Track abc</text>
+	<rect x="1787.183" y="-1824.013" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1787.1826 -1816.0088)" font-family="'ProximaNova-Regular'" font-size="12">10 Checkpoints</text>
+	<rect x="1787.183" y="-1805.776" fill="none" width="138.455" height="25.03"/>
+	<text transform="matrix(1 0 0 1 1787.1826 -1800.4404)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Started at:</tspan><tspan x="0" y="11" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Ends at:</tspan></text>
+	<rect x="1799.055" y="-1743.86" fill="none" width="54.498" height="8.947"/>
+	
+		<text transform="matrix(1 0 0 1 1799.0547 -1738.5244)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Edit Track</text>
+	<rect x="1866.742" y="-1743.86" fill="none" width="63.502" height="6.75"/>
+	
+		<text transform="matrix(1 0 0 1 1866.7422 -1738.5244)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Delete Track</text>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" d="M1927.95-1738.526c0,2.75-2.25,5-5,5h-138.768c-2.75,0-5-2.25-5-5
+			v-118.5c0-2.75,2.25-5,5-5h138.768c2.75,0,5,2.25,5,5V-1738.526z"/>
+	</g>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="1779.183" y1="-1838.625" x2="1927.95" y2="-1838.625"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="1779.183" y1="-1748.125" x2="1927.95" y2="-1748.125"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="1853.566" y1="-1748.125" x2="1853.566" y2="-1733.526"/>
+	<rect x="1183.598" y="-2553.107" fill="none" width="89.234" height="7.639"/>
+	<text transform="matrix(1 0 0 1 1183.5977 -2547.7607)" font-family="'ProximaNova-Regular'" font-size="8.0166">HackerYou Winter 2014</text>
+	<rect x="1331.197" y="-2512.349" fill="none" width="89.234" height="7.639"/>
+	<text transform="matrix(1 0 0 1 1344.333 -2507.002)" fill="#939598" font-family="'ProximaNova-Regular'" font-size="8.0166">Create Classroom</text>
+	<rect x="1201.578" y="-2505.701" fill="none" width="75.035" height="9.629"/>
+	<text transform="matrix(1 0 0 1 1201.5771 -2500.3555)" font-family="'ProximaNova-Regular'" font-size="8.0166">32 students joined</text>
+	<rect x="1201.578" y="-2486.467" fill="none" width="75.035" height="9.63"/>
+	<text transform="matrix(1 0 0 1 1201.5771 -2481.1201)" font-family="'ProximaNova-Regular'" font-size="8.0166">14 tracks</text>
+	<rect x="1183.598" y="-2534.178" fill="none" width="110.994" height="20.066"/>
+	<text transform="matrix(1 0 0 1 1183.5977 -2529.9014)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4133">Optional classroom description goes </tspan><tspan x="0" y="8.818" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4133">here. This is the second sentence. </tspan></text>
+	<rect x="1186.254" y="-2464.689" fill="none" width="43.688" height="7.172"/>
+	
+		<text transform="matrix(1 0 0 1 1186.2529 -2460.4131)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4133" text-decoration=" underline">Edit Classroom</text>
+	<rect x="1241.967" y="-2464.689" fill="none" width="50.908" height="5.41"/>
+	
+		<text transform="matrix(1 0 0 1 1241.9668 -2460.4131)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4133" text-decoration=" underline">Delete Classroom</text>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" d="M1296.445-2461.405c0,2.75-2.25,5-5,5h-109.261c-2.75,0-5-2.25-5-5
+			v-93.014c0-2.75,2.25-5,5-5h109.261c2.75,0,5,2.25,5,5V-2461.405z"/>
+	</g>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="1177.185" y1="-2540.659" x2="1296.445" y2="-2540.659"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="1177.185" y1="-2468.108" x2="1296.445" y2="-2468.108"/>
+	<rect x="1183.598" y="-2508.529" fill="#A7A9AC" width="11.115" height="10.85"/>
+	<rect x="1183.598" y="-2489.289" fill="#A7A9AC" width="11.115" height="10.849"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="1236.815" y1="-2468.108" x2="1236.815" y2="-2456.405"/>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-miterlimit="10" d="M1435.445-2461.405c0,2.75-2.25,5-5,5h-109.261c-2.75,0-5-2.25-5-5
+			v-93.014c0-2.75,2.25-5,5-5h109.261c2.75,0,5,2.25,5,5V-2461.405z"/>
+	</g>
+	<rect x="2194.579" y="-1823.092" fill="none" width="89.234" height="7.639"/>
+	<text transform="matrix(1 0 0 1 2216.5449 -1817.7451)" fill="#939598" font-family="'ProximaNova-Regular'" font-size="8.0166">Create Track</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-miterlimit="10" d="M2298.827-1772.148c0,2.75-2.25,5-5,5h-109.261c-2.75,0-5-2.25-5-5
+			v-93.014c0-2.75,2.25-5,5-5h109.261c2.75,0,5,2.25,5,5V-1772.148z"/>
+	</g>
+	<rect x="-813.268" y="-1873.814" fill="none" width="138.455" height="25.03"/>
+	<text transform="matrix(1 0 0 1 -813.2676 -1868.4785)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Optional classroom description goes </tspan><tspan x="0" y="11" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">here. This is the second sentence. </tspan></text>
+	<rect x="-549.272" y="-1884.814" fill="none" width="282.272" height="12.515"/>
+	<text transform="matrix(1 0 0 1 -549.2725 -1879.4785)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Optional classroom description goes here. This is the second sentence. </text>
+	<rect x="1787.183" y="-1778.518" fill="#D1D3D4" width="131.317" height="23.5"/>
+	<rect x="1812.61" y="-1770.773" fill="none" width="93.601" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1812.6104 -1762.7695)" font-family="'ProximaNova-Regular'" font-size="12">Some analytics</text>
+	<rect x="2041.78" y="-1900.448" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 2041.7803 -1892.4443)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Tracks</text>
+	<rect x="2047.646" y="-1864.186" fill="none" width="89.895" height="7.693"/>
+	<text transform="matrix(1 0 0 1 2047.6455 -1858.7988)" font-family="'ProximaNova-Bold'" font-size="8.076">Track abc</text>
+	<rect x="2047.646" y="-1839.845" fill="none" width="75.591" height="9.7"/>
+	<text transform="matrix(1 0 0 1 2047.6455 -1833.3809)" font-family="'ProximaNova-Regular'" font-size="9.6912">10 Checkpoints</text>
+	<rect x="2047.646" y="-1825.118" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 2047.6455 -1820.8086)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608">Started at:</tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608">Ends at:</tspan></text>
+	<rect x="2057.233" y="-1775.114" fill="none" width="44.013" height="7.226"/>
+	
+		<text transform="matrix(1 0 0 1 2057.2334 -1770.8047)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608" text-decoration=" underline">Edit Track</text>
+	<rect x="2111.897" y="-1775.114" fill="none" width="51.284" height="5.451"/>
+	
+		<text transform="matrix(1 0 0 1 2111.8975 -1770.8047)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608" text-decoration=" underline">Delete Track</text>
+	<g>
+		<path fill="none" stroke="#808285" stroke-miterlimit="10" d="M2161.329-1771.768c0,2.75-2.25,5-5,5h-110.145c-2.75,0-5-2.25-5-5
+			v-93.776c0-2.75,2.25-5,5-5h110.145c2.75,0,5,2.25,5,5V-1771.768z"/>
+	</g>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="2041.185" y1="-1851.646" x2="2161.329" y2="-1851.646"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="2041.185" y1="-1778.558" x2="2161.329" y2="-1778.558"/>
+	<line fill="none" stroke="#808285" stroke-miterlimit="10" x1="2101.257" y1="-1778.558" x2="2101.257" y2="-1766.768"/>
+	<rect x="2047.646" y="-1803.103" fill="#D1D3D4" width="106.052" height="18.979"/>
+	<rect x="2068.181" y="-1796.85" fill="none" width="75.592" height="9.7"/>
+	<text transform="matrix(1 0 0 1 2068.1807 -1790.3857)" font-family="'ProximaNova-Regular'" font-size="9.6912">Some analytics</text>
+	<rect x="1344.329" y="-1945.227" fill="none" width="277.011" height="7.115"/>
+	<text transform="matrix(1 0 0 1 1344.3291 -1938.5566)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Tracks           Profile        Logout</text>
+	<rect x="2362.5" y="-1899.072" fill="none" width="62.423" height="9.26"/>
+	
+		<text transform="matrix(1 0 0 1 2362.5 -1893.7363)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Students</text>
+	<rect x="-810.679" y="-1203.931" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -810.6787 -1195.9268)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Students</text>
+	<rect x="-829.782" y="-879.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -871.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">When the user clicks the students button for any given classroom, this is the view they are taken to. They see an input </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">for typing in email addresses to invite students, and a table detailing invited students, their status, and options to delete </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">any student from the class.</tspan></text>
+	<rect x="-829.782" y="-810.018" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -802.918)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Types in a list of emails to send out invitations. Removes students that have dropped the course. Monitors which </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">students have accepted their invitations to Curri.</tspan></text>
+	<rect x="-292" y="-892.143" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 -292 -885.043)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Student Status table not shown on mobile size. </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">Some sort of responsive table implementation </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">will be used, such as http://zurb.com/play</tspan><tspan x="173.115" y="28" font-family="'MyriadPro-Regular'" font-size="10">-</tspan><tspan x="0" y="42" font-family="'MyriadPro-Regular'" font-size="10">ground/responsive-tables to enable div </tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">scrolling. Down the road we might want to </tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">allow sorting of the table by any given header?</tspan><tspan x="0" y="98" font-family="'MyriadPro-Regular'" font-size="10">Also, whats the reason for allowing signup </tspan><tspan x="0" y="112" font-family="'MyriadPro-Regular'" font-size="10">from a different email ID than the one invite </tspan><tspan x="0" y="126" font-family="'MyriadPro-Regular'" font-size="10">was sent to?</tspan></text>
+	<rect x="-829.782" y="-1330.018" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -1315.7979)" font-family="'MyriadPro-Bold'" font-size="20">Manage Students</text>
+	<rect x="-548.677" y="-1212.448" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -548.6768 -1204.4443)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Students</text>
+	<rect x="-802.812" y="-1151.332" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 -802.8115 -1145.9961)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Separate multiple email </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">addresses with a comma.</tspan></text>
+	<rect x="-548.377" y="-1062.299" fill="none" width="60.211" height="7.281"/>
+	
+		<text transform="matrix(1 0 0 1 -548.3774 -1056.9629)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8" text-decoration=" underline">Remove</text>
+	
+		<rect x="-809.947" y="-1160.677" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="44.659"/>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M-675.434-1088.177c0,2.75-2.25,5-5,5h-125.188
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5h125.188c2.75,0,5,2.25,5,5V-1088.177z"/>
+	</g>
+	<rect x="-761.012" y="-1098.511" fill="none" width="91.333" height="16.668"/>
+	<text transform="matrix(1 0 0 1 -761.0122 -1089.8398)" font-family="'ProximaNova-Bold'" font-size="13">Invite</text>
+	<rect x="-810.679" y="-1179.495" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 -810.6787 -1172.8252)" font-family="'ProximaNova-Bold'" font-size="10">Invite: Email address</text>
+	<rect x="-810.679" y="-1061.942" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 -810.6787 -1055.2725)" font-family="'ProximaNova-Bold'" font-size="10">Student Status</text>
+	<rect x="-540.81" y="-1159.257" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 -540.8096 -1154.9473)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608">Separate multiple email addresses with </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608">a comma.</tspan></text>
+	
+		<rect x="-547.945" y="-1168.602" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="44.659"/>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M-445.395-1101.303c0,2.75-2.25,5-5,5h-93.225
+			c-2.75,0-5-2.25-5-5v-6.799c0-2.75,2.25-5,5-5h93.225c2.75,0,5,2.25,5,5V-1101.303z"/>
+	</g>
+	<rect x="-529.876" y="-1108.012" fill="none" width="69.739" height="12.728"/>
+	<text transform="matrix(1 0 0 1 -529.877 -1101.3906)" font-family="'ProximaNova-Bold'" font-size="9.9264">Send Invitation</text>
+	<rect x="-548.677" y="-1187.42" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 -548.6768 -1180.75)" font-family="'ProximaNova-Bold'" font-size="10">Invite Students</text>
+	<rect x="-521.128" y="-1043.42" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -521.1284 -1038.084)" font-family="'ProximaNova-Bold'" font-size="8">First Name</text>
+	<rect x="-521.128" y="-1024.718" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -521.1284 -1019.3818)" font-family="'ProximaNova-Regular'" font-size="8">Ahmed</text>
+	<rect x="-434.184" y="-1024.718" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -434.1836 -1019.3818)" font-family="'ProximaNova-Regular'" font-size="8">Omran</text>
+	<rect x="-521.128" y="-1009.051" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -521.1284 -1003.7148)" font-family="'ProximaNova-Regular'" font-size="8">Paula</text>
+	<rect x="-521.128" y="-993.718" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -521.1284 -988.3818)" font-family="'ProximaNova-Regular'" font-size="8">Alexander</text>
+	<rect x="-434.184" y="-1009.051" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -434.1836 -1003.7148)" font-family="'ProximaNova-Regular'" font-size="8">Franzini</text>
+	<rect x="-434.184" y="-993.718" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -434.1836 -988.3818)" font-family="'ProximaNova-Regular'" font-size="8">Miloff</text>
+	<rect x="-346.82" y="-1024.718" fill="none" width="81.153" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -346.8203 -1019.3818)" font-family="'ProximaNova-Regular'" font-size="8">aomran@gmail.com</text>
+	<rect x="-346.82" y="-1009.051" fill="none" width="76.82" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -346.8203 -1003.7148)" font-family="'ProximaNova-Regular'" font-size="8">pjfranzini@gmail.com</text>
+	<rect x="-346.82" y="-993.718" fill="none" width="82.486" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -346.8203 -988.3818)" font-family="'ProximaNova-Regular'" font-size="8">amiloff@gmail.com</text>
+	<rect x="-229.802" y="-1024.718" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -229.8018 -1019.3818)" font-family="'ProximaNova-Regular'" font-size="8">accepted</text>
+	<rect x="-229.802" y="-1009.051" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -229.8018 -1003.7148)" font-family="'ProximaNova-Regular'" font-size="8">invite sent</text>
+	<rect x="-229.802" y="-993.718" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -229.8018 -988.3818)" font-family="'ProximaNova-Regular'" font-size="8">invite sent</text>
+	<rect x="-434.184" y="-1043.42" fill="none" width="46.121" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -434.1836 -1038.084)" font-family="'ProximaNova-Bold'" font-size="8">Last Name</text>
+	<rect x="-346.82" y="-1043.42" fill="none" width="62.82" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -346.8203 -1038.084)" font-family="'ProximaNova-Bold'" font-size="8">Email Address</text>
+	<rect x="-229.802" y="-1043.42" fill="none" width="71.302" height="7.925"/>
+	<text transform="matrix(1 0 0 1 -229.8018 -1038.084)" font-family="'ProximaNova-Bold'" font-size="8">Invitation Status</text>
+	<rect x="-548.677" y="-1079.367" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 -548.6768 -1072.6973)" font-family="'ProximaNova-Bold'" font-size="10">Student Status</text>
+	<rect x="-547.945" y="-1049.518" fill="none" stroke="#E6E7E8" stroke-miterlimit="10" width="391.945" height="70"/>
+	<rect x="-809.947" y="-1044.051" fill="none" stroke="#E6E7E8" stroke-miterlimit="10" width="148.947" height="70"/>
+	<line fill="none" stroke="#E6E7E8" stroke-miterlimit="10" x1="-547.945" y1="-1032.018" x2="-156" y2="-1032.018"/>
+	<g>
+		<path fill="none" stroke="#E6E7E8" stroke-miterlimit="10" d="M-533-1038.61c0,1.101-0.9,2-2,2h-3.81c-1.1,0-2-0.899-2-2v-3.81
+			c0-1.1,0.9-2,2-2h3.81c1.1,0,2,0.9,2,2V-1038.61z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#E6E7E8" stroke-miterlimit="10" d="M-533-1019.851c0,1.101-0.9,2-2,2h-3.81c-1.1,0-2-0.899-2-2v-3.81
+			c0-1.1,0.9-2,2-2h3.81c1.1,0,2,0.9,2,2V-1019.851z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#E6E7E8" stroke-miterlimit="10" d="M-533-1004.684c0,1.1-0.9,2-2,2h-3.81c-1.1,0-2-0.9-2-2v-3.81
+			c0-1.101,0.9-2,2-2h3.81c1.1,0,2,0.899,2,2V-1004.684z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#E6E7E8" stroke-miterlimit="10" d="M-533-989.517c0,1.101-0.9,2-2,2h-3.81c-1.1,0-2-0.899-2-2v-3.81
+			c0-1.1,0.9-2,2-2h3.81c1.1,0,2,0.9,2,2V-989.517z"/>
+	</g>
+	<rect x="-810.679" y="-523.913" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -810.6787 -515.9092)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="-829.782" y="-199" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -191.9004)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">When a user enters a newly created track, the blank state view only has an ‘Add checkpoint’ button. For tracks that a </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">user has created checkpoints for, this button will get pushed to the bottom, after all checkpoints. </tspan></text>
+	<rect x="-829.782" y="-130" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -122.9004)" font-family="'MyriadPro-Regular'" font-size="10">Clicks the ‘Add Checkpoint’ button to go to the checkpoint create view.</text>
+	<rect x="-292" y="-212.125" fill="none" width="196" height="144.125"/>
+	<rect x="-829.782" y="-650" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 -635.7803)" font-family="'MyriadPro-Bold'" font-size="20">Add Checkpoint: 1</text>
+	<rect x="-548.677" y="-532.431" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -548.6768 -524.4268)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M-675.434-452.478c0,2.75-2.25,5-5,5h-125.188
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5h125.188c2.75,0,5,2.25,5,5V-452.478z"/>
+	</g>
+	<rect x="-791.402" y="-463.812" fill="none" width="96.224" height="16.668"/>
+	<text transform="matrix(1 0 0 1 -791.4023 -455.1406)" font-family="'ProximaNova-Bold'" font-size="13">Add Checkpoint</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M189.24-316.167c0,2.75-2.25,5-5,5H59.053
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5H184.24c2.75,0,5,2.25,5,5V-316.167z"/>
+	</g>
+	<rect x="73.271" y="-327.501" fill="none" width="96.224" height="16.668"/>
+	<text transform="matrix(1 0 0 1 107.0254 -318.8301)" font-family="'ProximaNova-Bold'" font-size="13">Save</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M-444.765-468.734c0,2.75-2.25,5-5,5h-93.912
+			c-2.75,0-5-2.25-5-5v-6.91c0-2.75,2.25-5,5-5h93.912c2.75,0,5,2.25,5,5V-468.734z"/>
+	</g>
+	<rect x="-533.904" y="-476.289" fill="none" width="73.963" height="12.811"/>
+	<text transform="matrix(1 0 0 1 -533.9048 -469.624)" font-family="'ProximaNova-Bold'" font-size="9.9924">Add Checkpoint</text>
+	<rect x="-810.679" y="-507.402" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 -810.6787 -502.0664)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<rect x="-549.272" y="-511.901" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 -549.2725 -506.5654)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<rect x="53.321" y="-523.913" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 53.3213 -515.9092)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="532.567" y="-576.633" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 532.5674 -569.9629)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="34.218" y="-199" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -191.9004)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">2 input fields, for checkpoint title and success criteria. Another info icon next to success criteria, since this is the first </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">time they see this term in the app.</tspan></text>
+	<rect x="34.218" y="-130" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 -122.9004)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Types in a checkpoint title. Is unsure about what to type into the success criteria field, so clicks the info icon. Now </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">having understood, types in the required success criteria.</tspan></text>
+	<rect x="572" y="-212.125" fill="none" width="196" height="144.125"/>
+	<text transform="matrix(1 0 0 1 572 -205.0254)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">Do we want to impose a character limit on the </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">checkpoint title and success criteria inputs? </tspan><tspan x="0" y="28" font-family="'MyriadPro-Regular'" font-size="10">Otherwise we could end up with really long </tspan><tspan x="0" y="42" font-family="'MyriadPro-Regular'" font-size="10">essays, especially in the success criteria, which </tspan><tspan x="0" y="56" font-family="'MyriadPro-Regular'" font-size="10">would be bad for numerous reasons- display as </tspan><tspan x="0" y="70" font-family="'MyriadPro-Regular'" font-size="10">well as utility for students.</tspan><tspan x="0" y="84" font-family="'MyriadPro-Regular'" font-size="10">Add another checkpoint is similar to add </tspan><tspan x="0" y="98" font-family="'MyriadPro-Regular'" font-size="10">another track, which could generate another </tspan><tspan x="0" y="112" font-family="'MyriadPro-Regular'" font-size="10">set of inputs using ajax.</tspan></text>
+	<rect x="34.218" y="-650" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 -635.7803)" font-family="'MyriadPro-Bold'" font-size="20">Add Checkpoint: 2</text>
+	<rect x="315.323" y="-532.431" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 315.3232 -524.4268)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="61.188" y="-474.314" fill="none" width="111.816" height="10.107"/>
+	<text transform="matrix(1 0 0 1 61.1885 -470.0049)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608">Enter a brief title for this objective</text>
+	
+		<rect x="54.053" y="-483.659" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="24.634"/>
+	<rect x="53.321" y="-499.478" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 53.3213 -492.8076)" font-family="'ProximaNova-Bold'" font-size="10">Expectation</text>
+	<rect x="61.188" y="-415.831" fill="none" width="117.691" height="20.214"/>
+	<text transform="matrix(1 0 0 1 61.1885 -411.5215)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="6.4608">Enter success criteria for this checkpoint</text>
+	
+		<rect x="54.053" y="-425.176" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="135.188" height="44.659"/>
+	<rect x="53.321" y="-440.994" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 53.3213 -434.3242)" font-family="'ProximaNova-Bold'" font-size="10">Success criteria</text>
+	<rect x="322.283" y="-491.979" fill="none" width="88.53" height="8.002"/>
+	<text transform="matrix(1 0 0 1 322.2842 -488.5654)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="5.1153">Enter a brief title for this objective</text>
+	
+		<rect x="316.634" y="-499.377" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="107.034" height="19.504"/>
+	<rect x="316.055" y="-511.901" fill="none" width="99.406" height="12.549"/>
+	<text transform="matrix(1 0 0 1 316.0547 -506.6191)" font-family="'ProximaNova-Bold'" font-size="7.9175">Expectation</text>
+	<rect x="322.283" y="-445.675" fill="none" width="93.182" height="16.005"/>
+	<text transform="matrix(1 0 0 1 322.2842 -442.2617)" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="5.1153">Enter success criteria for this checkpoint</text>
+	
+		<rect x="316.634" y="-453.073" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="213.035" height="20.004"/>
+	<rect x="316.055" y="-465.598" fill="none" width="99.406" height="12.549"/>
+	<text transform="matrix(1 0 0 1 316.0547 -460.3154)" font-family="'ProximaNova-Bold'" font-size="7.9175">Success criteria</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M418.605-377.285c0,2.75-2.25,5-5,5h-93.225
+			c-2.75,0-5-2.25-5-5v-6.799c0-2.75,2.25-5,5-5h93.225c2.75,0,5,2.25,5,5V-377.285z"/>
+	</g>
+	<rect x="334.123" y="-383.994" fill="none" width="69.739" height="12.728"/>
+	<text transform="matrix(1 0 0 1 358.0293 -377.373)" font-family="'ProximaNova-Bold'" font-size="9.9264">Save</text>
+	<rect x="915.778" y="-523.913" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 915.7783 -515.9092)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="1395.024" y="-576.633" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 1395.0244 -569.9629)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="896.675" y="-199" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 -191.9004)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">After adding checkpoints by having clicked on add checkpoint button, user sees this list of their created checkpoints. </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">The checkmark icon represents success criteria, and the 2 small grey squares are placeholders for edit and delete icons.</tspan></text>
+	<rect x="896.675" y="-130" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 -122.9004)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">User decides to edit the wording of one of the trackpoints, and clicks the edit icon. A modal popup window appears </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">with options to edit the title/success criteria, and a save button. </tspan></text>
+	<rect x="1434.457" y="-212.125" fill="none" width="196" height="144.125"/>
+	<rect x="896.675" y="-650" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 -635.7803)" font-family="'MyriadPro-Bold'" font-size="20">Checkpoint index</text>
+	<rect x="1177.78" y="-532.431" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1177.7803 -524.4268)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="1479.606" y="-532.431" fill="none" width="88.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1479.6064 -524.4268)" font-family="'ProximaNova-Bold'" font-size="12">Other Tracks</text>
+	<rect x="915.778" y="-479.592" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 915.7783 -472.9219)" font-family="'ProximaNova-Bold'" font-size="10">JavaScript &amp; its uses</text>
+	<rect x="935.055" y="-463.742" fill="none" width="110.611" height="40.098"/>
+	<text transform="matrix(1 0 0 1 935.0547 -458.4062)"><tspan x="0" y="0" font-family="'ProximaNova-Regular'" font-size="8">JavaScript is a programming </tspan><tspan x="0" y="10" font-family="'ProximaNova-Regular'" font-size="8">language used mainly for </tspan><tspan x="0" y="20" font-family="'ProximaNova-Regular'" font-size="8">interactivity on web browsers.</tspan></text>
+	<circle fill="#A7A9AC" cx="921.015" cy="-457.729" r="5.833"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="918.021,-457.213 919.823,-455.411 923.428,-459.016 	"/>
+	<rect x="1052.999" y="-463.562" fill="#D1D3D4" width="9.667" height="9.667"/>
+	<rect x="1052.999" y="-450.562" fill="#D1D3D4" width="9.667" height="9.667"/>
+	<rect x="915.778" y="-425.447" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 915.7783 -418.7773)" font-family="'ProximaNova-Bold'" font-size="10">Client side vs. Server side</text>
+	<rect x="935.055" y="-409.598" fill="none" width="110.611" height="49.1"/>
+	<text transform="matrix(1 0 0 1 935.0547 -404.2617)"><tspan x="0" y="0" font-family="'ProximaNova-Regular'" font-size="8">Client-side code runs on the </tspan><tspan x="0" y="10" font-family="'ProximaNova-Regular'" font-size="8">user&apos;s web browser (e.g., </tspan><tspan x="0" y="20" font-family="'ProximaNova-Regular'" font-size="8">JavaScript). Server-side code </tspan><tspan x="0" y="30" font-family="'ProximaNova-Regular'" font-size="8">(e.g., Ruby) runs on the server </tspan><tspan x="0" y="40" font-family="'ProximaNova-Regular'" font-size="8">that hosts the website.</tspan></text>
+	<circle fill="#A7A9AC" cx="921.015" cy="-403.584" r="5.833"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="918.021,-403.068 919.823,-401.267 923.428,-404.871 	"/>
+	<rect x="1052.999" y="-409.417" fill="#D1D3D4" width="9.667" height="9.667"/>
+	<rect x="1052.999" y="-396.417" fill="#D1D3D4" width="9.667" height="9.667"/>
+	<rect x="915.778" y="-352.378" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 915.7783 -345.708)" font-family="'ProximaNova-Bold'" font-size="10">Assigning variables</text>
+	<rect x="935.055" y="-336.528" fill="none" width="110.611" height="40.098"/>
+	<text transform="matrix(1 0 0 1 935.0547 -331.1924)"><tspan x="0" y="0" font-family="'ProximaNova-Regular'" font-size="8">var myName = &apos;Homer </tspan><tspan x="0" y="10" font-family="'ProximaNova-Regular'" font-size="8">Simpson&apos;</tspan></text>
+	<circle fill="#A7A9AC" cx="921.015" cy="-330.515" r="5.833"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="918.021,-329.999 919.823,-328.197 923.428,-331.802 	"/>
+	<rect x="1052.999" y="-336.348" fill="#D1D3D4" width="9.667" height="9.667"/>
+	<rect x="1052.999" y="-323.348" fill="#D1D3D4" width="9.667" height="9.667"/>
+	<rect x="1181.182" y="-487.998" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1181.1816 -482.2861)" font-family="'ProximaNova-Bold'" font-size="8.564">JavaScript &amp; its uses</text>
+	<rect x="1479.606" y="-514.593" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1479.6064 -508.8809)" font-family="'ProximaNova-Bold'" font-size="8.564">HTML</text>
+	<rect x="1479.606" y="-500.485" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1479.6064 -494.7734)" font-family="'ProximaNova-Bold'" font-size="8.564">CSS</text>
+	<rect x="1479.606" y="-486.912" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1479.6064 -481.2002)" font-family="'ProximaNova-Bold'" font-size="8.564">Beginner jQuery</text>
+	<rect x="1197.69" y="-474.425" fill="none" width="209.311" height="15.696"/>
+	<text transform="matrix(1 0 0 1 1197.6904 -469.8555)"><tspan x="0" y="0" font-family="'ProximaNova-Regular'" font-size="6.8512">JavaScript is a programming language used mainly for interactivity on </tspan><tspan x="0" y="8.564" font-family="'ProximaNova-Regular'" font-size="6.8512">web browsers.</tspan></text>
+	<circle fill="#A7A9AC" cx="1185.667" cy="-469.274" r="4.996"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1183.104,-468.833 1184.646,-467.289 1187.732,-470.377 	
+		"/>
+	<rect x="1420.194" y="-474.27" fill="#D1D3D4" width="8.279" height="8.279"/>
+	<rect x="1420.194" y="-463.137" fill="#D1D3D4" width="8.279" height="8.279"/>
+	<rect x="1181.182" y="-444.629" fill="none" width="107.524" height="13.574"/>
+	<text transform="matrix(1 0 0 1 1181.1816 -438.917)" font-family="'ProximaNova-Bold'" font-size="8.564">Client side vs. Server side</text>
+	<rect x="1197.69" y="-431.055" fill="none" width="213.977" height="15.427"/>
+	<text transform="matrix(1 0 0 1 1197.6904 -426.4854)"><tspan x="0" y="0" font-family="'ProximaNova-Regular'" font-size="6.8512">Client-side code runs on the user&apos;s web browser (e.g., JavaScript). </tspan><tspan x="0" y="8.564" font-family="'ProximaNova-Regular'" font-size="6.8512">Server-side code (e.g., Ruby) runs on the server that hosts the website.</tspan></text>
+	<circle fill="#A7A9AC" cx="1185.667" cy="-425.904" r="4.996"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1183.104,-425.463 1184.646,-423.92 1187.732,-427.007 	"/>
+	<rect x="1420.194" y="-430.9" fill="#D1D3D4" width="8.279" height="8.279"/>
+	<rect x="1420.194" y="-419.768" fill="#D1D3D4" width="8.279" height="8.279"/>
+	<rect x="1181.182" y="-401.618" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1181.1816 -395.9062)" font-family="'ProximaNova-Bold'" font-size="8.564">Assigning variables</text>
+	<rect x="1197.69" y="-388.045" fill="none" width="213.977" height="13.101"/>
+	<text transform="matrix(1 0 0 1 1197.6904 -383.4756)" font-family="'ProximaNova-Regular'" font-size="6.8512">var myName = &apos;Homer Simpson&apos;</text>
+	<circle fill="#A7A9AC" cx="1185.667" cy="-382.895" r="4.996"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="1183.104,-382.453 1184.646,-380.91 1187.732,-383.997 	"/>
+	<rect x="1420.194" y="-387.891" fill="#D1D3D4" width="8.279" height="8.279"/>
+	<rect x="1420.194" y="-376.757" fill="#D1D3D4" width="8.279" height="8.278"/>
+	<rect x="915.778" y="-508.806" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 915.7783 -503.4697)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<rect x="1178.512" y="-514.913" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 1178.5117 -509.5771)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M1057.159-281.334c0,2.75-2.25,5-5,5H926.972
+			c-2.75,0-5-2.25-5-5v-12c0-2.75,2.25-5,5-5h125.188c2.75,0,5,2.25,5,5V-281.334z"/>
+	</g>
+	<rect x="941.19" y="-292.668" fill="none" width="96.224" height="16.668"/>
+	<text transform="matrix(1 0 0 1 941.1904 -283.9971)" font-family="'ProximaNova-Bold'" font-size="13">Add Checkpoint</text>
+	<g>
+		<path fill="none" stroke="#BCBEC0" stroke-width="2" stroke-miterlimit="10" d="M1269.867-346.5c0,2.75-2.25,5-5,5h-76.764
+			c-2.75,0-5-2.25-5-5v-4.12c0-2.75,2.25-5,5-5h76.764c2.75,0,5,2.25,5,5V-346.5z"/>
+	</g>
+	<rect x="1195.438" y="-351.983" fill="none" width="61.757" height="10.697"/>
+	<text transform="matrix(1 0 0 1 1195.4385 -346.418)" font-family="'ProximaNova-Bold'" font-size="8.3434">Add Checkpoint</text>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="915.182" y1="-431.055" x2="1062.666" y2="-431.055"/>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="915.182" y1="-485.852" x2="1062.666" y2="-485.852"/>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="915.182" y1="-358.498" x2="1062.666" y2="-358.498"/>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="1177.185" y1="-449.896" x2="1428.474" y2="-449.896"/>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="1177.185" y1="-406.417" x2="1428.474" y2="-406.417"/>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="1177.185" y1="-493.699" x2="1428.474" y2="-493.699"/>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="1177.185" y1="-363.518" x2="1428.474" y2="-363.518"/>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="915.182" y1="-307.518" x2="1062.666" y2="-307.518"/>
+	<rect x="-810.679" y="156.087" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -810.6787 164.0908)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="-331.433" y="103.367" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 -331.4326 110.0371)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="-829.782" y="481" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 488.0996)"><tspan x="0" y="0" font-family="'MyriadPro-Regular'" font-size="10">When a student enters a given track, they see a view with each checkpoint expectation. They also see next to each an </tspan><tspan x="0" y="14" font-family="'MyriadPro-Regular'" font-size="10">icon for success criteria and an empty circle icon with a dropdown arrow inside.</tspan></text>
+	<rect x="-829.782" y="550" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 -829.7822 557.0996)" font-family="'MyriadPro-Regular'" font-size="10">The student either clicks the success criteria icon or the other weird icon.</text>
+	<rect x="-292" y="467.875" fill="none" width="196" height="144.125"/>
+	<rect x="-829.782" y="30" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 44.2197)" font-family="'MyriadPro-Bold'" font-size="20">Checkpoint index: Student</text>
+	<rect x="-548.677" y="147.569" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -548.6768 155.5732)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="-246.851" y="147.569" fill="none" width="88.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -246.8506 155.5732)" font-family="'ProximaNova-Bold'" font-size="12">Other Tracks</text>
+	<rect x="-810.679" y="200.408" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 -810.6787 206.4111)" font-family="'ProximaNova-Bold'" font-size="9">JavaScript &amp; its uses</text>
+	<path fill="#A7A9AC" d="M-694.125,198.956c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S-690.903,198.956-694.125,198.956z M-695.316,207.298l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707
+		L-695.316,207.298z"/>
+	<path fill="#A7A9AC" d="M-694.125,219.896c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S-690.903,219.896-694.125,219.896z M-695.316,228.238l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707
+		L-695.316,228.238z"/>
+	<path fill="#A7A9AC" d="M-694.125,240.016c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S-690.903,240.016-694.125,240.016z M-695.316,248.357l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707
+		L-695.316,248.357z"/>
+	<rect x="-810.679" y="222.457" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 -810.6787 228.46)" font-family="'ProximaNova-Bold'" font-size="9">Client side vs. Server side</text>
+	<rect x="-810.679" y="242.427" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 -810.6787 248.4297)" font-family="'ProximaNova-Bold'" font-size="9">Assigning variables</text>
+	<rect x="-246.851" y="165.407" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 -246.8506 171.1191)" font-family="'ProximaNova-Bold'" font-size="8.564">HTML</text>
+	<rect x="-246.851" y="179.515" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 -246.8506 185.2266)" font-family="'ProximaNova-Bold'" font-size="8.564">CSS</text>
+	<rect x="-246.851" y="193.088" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 -246.8506 198.7998)" font-family="'ProximaNova-Bold'" font-size="8.564">Beginner jQuery</text>
+	<rect x="-810.679" y="286.937" fill="none" width="88.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 -810.6787 294.9404)" font-family="'ProximaNova-Bold'" font-size="12">Other Tracks</text>
+	<rect x="-810.679" y="304.774" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 -810.6787 310.4863)" font-family="'ProximaNova-Bold'" font-size="8.564">HTML</text>
+	<rect x="-810.679" y="318.882" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 -810.6787 324.5938)" font-family="'ProximaNova-Bold'" font-size="8.564">CSS</text>
+	<rect x="-810.679" y="332.455" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 -810.6787 338.167)" font-family="'ProximaNova-Bold'" font-size="8.564">Beginner jQuery</text>
+	<rect x="-810.679" y="171.194" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 -810.6787 176.5303)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<rect x="-547.945" y="165.087" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 -547.9453 170.4229)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<rect x="532.567" y="103.367" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 532.5674 110.0371)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="34.218" y="481" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 488.0996)" font-family="'MyriadPro-Regular'" font-size="10">Upon clicking the first success criteria icon, the student sees the success criteria in a tooltip, as entered by the teacher. </text>
+	<rect x="34.218" y="550" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 34.2178 557.0996)" font-family="'MyriadPro-Regular'" font-size="10">The student clicks outside of the tooltip to exit and clicks on the dropdown for one of the expectations.</text>
+	<rect x="572" y="467.875" fill="none" width="196" height="144.125"/>
+	<rect x="34.218" y="30" fill="none" width="411.782" height="19.5"/>
+	<text transform="matrix(1 0 0 1 34.2178 44.2197)" font-family="'MyriadPro-Bold'" font-size="20">Checkpoint index: Student Success Criteria</text>
+	<rect x="617.149" y="147.569" fill="none" width="88.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 617.1494 155.5732)" font-family="'ProximaNova-Bold'" font-size="12">Other Tracks</text>
+	<rect x="617.149" y="165.407" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 617.1494 171.1191)" font-family="'ProximaNova-Bold'" font-size="8.564">HTML</text>
+	<rect x="617.149" y="179.515" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 617.1494 185.2266)" font-family="'ProximaNova-Bold'" font-size="8.564">CSS</text>
+	<rect x="617.149" y="193.088" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 617.1494 198.7998)" font-family="'ProximaNova-Bold'" font-size="8.564">Beginner jQuery</text>
+	<rect x="-829.782" y="702.499" fill="none" width="249" height="19.5"/>
+	<text transform="matrix(1 0 0 1 -829.7822 716.7188)" font-family="'MyriadPro-Bold'" font-size="20">Navigation Menu</text>
+	<g>
+		<path fill="#A7A9AC" d="M-676.125,199.955c2.573,0,4.667,2.094,4.667,4.667s-2.093,4.667-4.667,4.667s-4.667-2.094-4.667-4.667
+			S-678.698,199.955-676.125,199.955 M-676.125,198.955c-3.129,0-5.667,2.537-5.667,5.667s2.537,5.667,5.667,5.667
+			s5.667-2.537,5.667-5.667S-672.996,198.955-676.125,198.955L-676.125,198.955z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="-674.004,203.562 -676.125,205.683 -678.246,203.562 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M-676.125,221.062c2.573,0,4.667,2.094,4.667,4.667s-2.093,4.667-4.667,4.667s-4.667-2.094-4.667-4.667
+			S-678.698,221.062-676.125,221.062 M-676.125,220.062c-3.129,0-5.667,2.537-5.667,5.667s2.537,5.667,5.667,5.667
+			s5.667-2.537,5.667-5.667S-672.996,220.062-676.125,220.062L-676.125,220.062z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="-674.004,224.669 -676.125,226.79 -678.246,224.669 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M-676.125,241.182c2.573,0,4.667,2.094,4.667,4.667s-2.093,4.667-4.667,4.667s-4.667-2.094-4.667-4.667
+			S-678.698,241.182-676.125,241.182 M-676.125,240.182c-3.129,0-5.667,2.537-5.667,5.667s2.537,5.667,5.667,5.667
+			s5.667-2.537,5.667-5.667S-672.996,240.182-676.125,240.182L-676.125,240.182z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="-674.004,244.788 -676.125,246.909 -678.246,244.788 	"/>
+	<rect x="-549.272" y="191.5" fill="none" width="109.287" height="13.797"/>
+	<text transform="matrix(1 0 0 1 -549.2729 196.7246)" font-family="'ProximaNova-Bold'" font-size="7.834">JavaScript &amp; its uses</text>
+	<path fill="#A7A9AC" d="M-346.184,190.236c-2.804,0-5.076,2.273-5.076,5.077c0,2.805,2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.272,5.078-5.077C-341.105,192.51-343.378,190.236-346.184,190.236z M-347.221,197.497l-1.875-1.876l0.615-0.615
+		l1.26,1.261l2.831-2.83l0.615,0.615L-347.221,197.497z"/>
+	<path fill="#A7A9AC" d="M-346.184,208.464c-2.804,0-5.076,2.272-5.076,5.077s2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.272,5.078-5.077S-343.378,208.464-346.184,208.464z M-347.221,215.725l-1.875-1.876l0.615-0.615l1.26,1.261
+		l2.831-2.83l0.615,0.615L-347.221,215.725z"/>
+	<path fill="#A7A9AC" d="M-346.184,225.977c-2.804,0-5.076,2.272-5.076,5.077c0,2.804,2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.273,5.078-5.077C-341.105,228.249-343.378,225.977-346.184,225.977z M-347.221,233.237l-1.875-1.876l0.615-0.615
+		l1.26,1.26l2.831-2.829l0.615,0.615L-347.221,233.237z"/>
+	<rect x="-549.272" y="210.692" fill="none" width="109.287" height="13.796"/>
+	<text transform="matrix(1 0 0 1 -549.2729 215.917)" font-family="'ProximaNova-Bold'" font-size="7.834">Client side vs. Server side</text>
+	<rect x="-549.272" y="228.075" fill="none" width="109.287" height="13.796"/>
+	<text transform="matrix(1 0 0 1 -549.2729 233.2998)" font-family="'ProximaNova-Bold'" font-size="7.834">Assigning variables</text>
+	<g>
+		<path fill="#A7A9AC" d="M-330.516,191.235c2.168,0,3.932,1.765,3.932,3.933c0,2.169-1.764,3.934-3.932,3.934
+			s-3.932-1.765-3.932-3.934C-334.447,193-332.684,191.235-330.516,191.235 M-330.516,190.235c-2.724,0-4.932,2.208-4.932,4.933
+			s2.208,4.934,4.932,4.934s4.932-2.209,4.932-4.934S-327.792,190.235-330.516,190.235L-330.516,190.235z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="-328.669,194.245 -330.516,196.092 -332.362,194.245 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M-330.516,209.608c2.168,0,3.932,1.765,3.932,3.933s-1.764,3.933-3.932,3.933s-3.932-1.765-3.932-3.933
+			S-332.684,209.608-330.516,209.608 M-330.516,208.608c-2.724,0-4.932,2.208-4.932,4.933s2.208,4.933,4.932,4.933
+			s4.932-2.208,4.932-4.933S-327.792,208.608-330.516,208.608L-330.516,208.608z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="-328.669,212.618 -330.516,214.464 -332.362,212.618 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M-330.516,227.121c2.168,0,3.932,1.764,3.932,3.933s-1.764,3.933-3.932,3.933s-3.932-1.764-3.932-3.933
+			S-332.684,227.121-330.516,227.121 M-330.516,226.121c-2.724,0-4.932,2.208-4.932,4.933c0,2.724,2.208,4.933,4.932,4.933
+			s4.932-2.209,4.932-4.933C-325.584,228.329-327.792,226.121-330.516,226.121L-330.516,226.121z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="-328.669,230.131 -330.516,231.977 -332.362,230.131 	"/>
+	<rect x="48.728" y="156.087" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 48.7275 164.0908)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="310.729" y="147.569" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 310.7295 155.5732)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="48.728" y="200.408" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 48.7275 206.4111)" font-family="'ProximaNova-Bold'" font-size="9">JavaScript &amp; its uses</text>
+	<path fill="#A7A9AC" d="M165.281,198.956c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S168.503,198.956,165.281,198.956z M164.09,207.298l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707L164.09,207.298z
+		"/>
+	<path fill="#A7A9AC" d="M165.281,219.896c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S168.503,219.896,165.281,219.896z M164.09,228.238l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707L164.09,228.238z
+		"/>
+	<path fill="#A7A9AC" d="M165.281,240.016c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S168.503,240.016,165.281,240.016z M164.09,248.357l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707L164.09,248.357z
+		"/>
+	<rect x="48.728" y="222.457" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 48.7275 228.46)" font-family="'ProximaNova-Bold'" font-size="9">Client side vs. Server side</text>
+	<rect x="48.728" y="242.427" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 48.7275 248.4297)" font-family="'ProximaNova-Bold'" font-size="9">Assigning variables</text>
+	<rect x="48.728" y="286.937" fill="none" width="88.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 48.7275 294.9404)" font-family="'ProximaNova-Bold'" font-size="12">Other Tracks</text>
+	<rect x="48.728" y="304.774" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 48.7275 310.4863)" font-family="'ProximaNova-Bold'" font-size="8.564">HTML</text>
+	<rect x="48.728" y="318.882" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 48.7275 324.5938)" font-family="'ProximaNova-Bold'" font-size="8.564">CSS</text>
+	<rect x="48.728" y="332.455" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 48.7275 338.167)" font-family="'ProximaNova-Bold'" font-size="8.564">Beginner jQuery</text>
+	<rect x="48.728" y="171.194" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 48.7275 176.5303)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<rect x="311.461" y="165.087" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 311.4609 170.4229)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<g>
+		<path fill="#A7A9AC" d="M183.281,199.955c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+			S180.708,199.955,183.281,199.955 M183.281,198.955c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+			s5.666-2.537,5.666-5.667S186.41,198.955,183.281,198.955L183.281,198.955z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="185.402,203.562 183.281,205.683 181.16,203.562 	"/>
+	<polygon fill="#58595B" points="148.144,198.475 154.329,204.66 148.144,210.847 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M183.281,221.062c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+			S180.708,221.062,183.281,221.062 M183.281,220.062c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+			s5.666-2.537,5.666-5.667S186.41,220.062,183.281,220.062L183.281,220.062z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="185.402,224.669 183.281,226.79 181.16,224.669 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M183.281,241.182c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+			S180.708,241.182,183.281,241.182 M183.281,240.182c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+			s5.666-2.537,5.666-5.667S186.41,240.182,183.281,240.182L183.281,240.182z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="185.402,244.788 183.281,246.909 181.16,244.788 	"/>
+	<rect x="310.134" y="191.5" fill="none" width="109.287" height="13.797"/>
+	<text transform="matrix(1 0 0 1 310.1328 196.7246)" font-family="'ProximaNova-Bold'" font-size="7.834">JavaScript &amp; its uses</text>
+	<path fill="#A7A9AC" d="M513.223,190.236c-2.804,0-5.076,2.273-5.076,5.077c0,2.805,2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.272,5.078-5.077C518.301,192.51,516.028,190.236,513.223,190.236z M512.186,197.497l-1.875-1.876l0.615-0.615
+		l1.26,1.261l2.831-2.83l0.615,0.615L512.186,197.497z"/>
+	<path fill="#A7A9AC" d="M513.223,208.464c-2.804,0-5.076,2.272-5.076,5.077s2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.272,5.078-5.077S516.028,208.464,513.223,208.464z M512.186,215.725l-1.875-1.876l0.615-0.615l1.26,1.261
+		l2.831-2.83l0.615,0.615L512.186,215.725z"/>
+	<path fill="#A7A9AC" d="M513.223,225.977c-2.804,0-5.076,2.272-5.076,5.077c0,2.804,2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.273,5.078-5.077C518.301,228.249,516.028,225.977,513.223,225.977z M512.186,233.237l-1.875-1.876l0.615-0.615
+		l1.26,1.26l2.831-2.829l0.615,0.615L512.186,233.237z"/>
+	<rect x="310.134" y="210.692" fill="none" width="109.287" height="13.796"/>
+	<text transform="matrix(1 0 0 1 310.1328 215.917)" font-family="'ProximaNova-Bold'" font-size="7.834">Client side vs. Server side</text>
+	<rect x="310.134" y="228.075" fill="none" width="109.287" height="13.796"/>
+	<text transform="matrix(1 0 0 1 310.1328 233.2998)" font-family="'ProximaNova-Bold'" font-size="7.834">Assigning variables</text>
+	<g>
+		<path fill="#A7A9AC" d="M528.891,191.235c2.168,0,3.932,1.765,3.932,3.933c0,2.169-1.764,3.934-3.932,3.934
+			s-3.932-1.765-3.932-3.934C524.959,193,526.723,191.235,528.891,191.235 M528.891,190.235c-2.724,0-4.932,2.208-4.932,4.933
+			s2.208,4.934,4.932,4.934s4.932-2.209,4.932-4.934S531.614,190.235,528.891,190.235L528.891,190.235z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="530.737,194.245 528.891,196.092 527.044,194.245 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M528.891,209.608c2.168,0,3.932,1.765,3.932,3.933s-1.764,3.933-3.932,3.933s-3.932-1.765-3.932-3.933
+			S526.723,209.608,528.891,209.608 M528.891,208.608c-2.724,0-4.932,2.208-4.932,4.933s2.208,4.933,4.932,4.933
+			s4.932-2.208,4.932-4.933S531.614,208.608,528.891,208.608L528.891,208.608z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="530.737,212.618 528.891,214.464 527.044,212.618 	"/>
+	<g>
+		<path fill="#A7A9AC" d="M528.891,227.121c2.168,0,3.932,1.764,3.932,3.933s-1.764,3.933-3.932,3.933s-3.932-1.764-3.932-3.933
+			S526.723,227.121,528.891,227.121 M528.891,226.121c-2.724,0-4.932,2.208-4.932,4.933c0,2.724,2.208,4.933,4.932,4.933
+			s4.932-2.209,4.932-4.933C533.822,228.329,531.614,226.121,528.891,226.121L528.891,226.121z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="530.737,230.131 528.891,231.977 527.044,230.131 	"/>
+	<g>
+		<path fill="#58595B" d="M148.561,244.352c0,2.2-1.8,4-4,4H59.564c-2.2,0-4-1.8-4-4V196.98c0-2.2,1.8-4,4-4h84.996c2.2,0,4,1.8,4,4
+			V244.352z"/>
+	</g>
+	<rect x="60.75" y="197.956" fill="none" width="83.5" height="45.832"/>
+	<text transform="matrix(1 0 0 1 60.75 203.292)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">JavaScript is a </tspan><tspan x="0" y="10" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">programming language </tspan><tspan x="0" y="20" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">used mainly for </tspan><tspan x="0" y="30" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">interactivity on web </tspan><tspan x="0" y="40" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">browsers.</tspan></text>
+	<polygon fill="#58595B" points="497.477,188.655 503.662,194.841 497.477,201.027 	"/>
+	<g>
+		<path fill="#58595B" d="M497.894,234.532c0,2.2-1.8,4-4,4h-84.996c-2.2,0-4-1.8-4-4v-47.371c0-2.2,1.8-4,4-4h84.996
+			c2.2,0,4,1.8,4,4V234.532z"/>
+	</g>
+	<rect x="410.083" y="188.137" fill="none" width="83.5" height="45.832"/>
+	<text transform="matrix(1 0 0 1 410.083 193.4727)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">JavaScript is a </tspan><tspan x="0" y="10" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">programming language </tspan><tspan x="0" y="20" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">used mainly for </tspan><tspan x="0" y="30" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">interactivity on web </tspan><tspan x="0" y="40" fill="#FFFFFF" font-family="'ProximaNova-Regular'" font-size="8">browsers.</tspan></text>
+	<rect x="1395.024" y="103.367" fill="none" width="225.383" height="7.115"/>
+	<text transform="matrix(1 0 0 1 1395.0244 110.0371)" font-family="'ProximaNova-Bold'" font-size="10">Classrooms            Profile        Logout</text>
+	<rect x="896.675" y="481" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 488.0996)" font-family="'MyriadPro-Regular'" font-size="10">On clicking the weird dropdown icon, the student sees 3 options- happy, medium and sad face.</text>
+	<rect x="896.675" y="550" fill="none" width="497.774" height="38"/>
+	<text transform="matrix(1 0 0 1 896.6748 557.0996)" font-family="'MyriadPro-Regular'" font-size="10">Student clicks the icon that most closely reflects how they feel about that expectation.</text>
+	<rect x="1434.457" y="467.875" fill="none" width="196" height="144.125"/>
+	<rect x="896.675" y="30" fill="none" width="362.457" height="19.5"/>
+	<text transform="matrix(1 0 0 1 896.6748 44.2197)" font-family="'MyriadPro-Bold'" font-size="20">Checkpoint index: Student Rating Input</text>
+	<rect x="1479.606" y="147.569" fill="none" width="88.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1479.6064 155.5732)" font-family="'ProximaNova-Bold'" font-size="12">Other Tracks</text>
+	<rect x="1479.606" y="165.407" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1479.6064 171.1191)" font-family="'ProximaNova-Bold'" font-size="8.564">HTML</text>
+	<rect x="1479.606" y="179.515" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1479.6064 185.2266)" font-family="'ProximaNova-Bold'" font-size="8.564">CSS</text>
+	<rect x="1479.606" y="193.088" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 1479.6064 198.7998)" font-family="'ProximaNova-Bold'" font-size="8.564">Beginner jQuery</text>
+	<rect x="911.185" y="156.087" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 911.1846 164.0908)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="1173.187" y="147.569" fill="none" width="153.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 1173.1865 155.5732)" font-family="'ProximaNova-Bold'" font-size="12">First Classroom &gt; Track abc</text>
+	<rect x="911.185" y="200.408" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 911.1846 206.4111)" font-family="'ProximaNova-Bold'" font-size="9">JavaScript &amp; its uses</text>
+	<path fill="#A7A9AC" d="M1027.738,198.956c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S1030.96,198.956,1027.738,198.956z M1026.547,207.298l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707
+		L1026.547,207.298z"/>
+	<path fill="#A7A9AC" d="M1027.738,219.896c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S1030.96,219.896,1027.738,219.896z M1026.547,228.238l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707
+		L1026.547,228.238z"/>
+	<path fill="#A7A9AC" d="M1027.738,240.016c-3.222,0-5.833,2.611-5.833,5.833s2.611,5.833,5.833,5.833s5.833-2.611,5.833-5.833
+		S1030.96,240.016,1027.738,240.016z M1026.547,248.357l-2.155-2.155l0.707-0.707l1.448,1.448l3.251-3.251l0.707,0.707
+		L1026.547,248.357z"/>
+	<rect x="911.185" y="222.457" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 911.1846 228.46)" font-family="'ProximaNova-Bold'" font-size="9">Client side vs. Server side</text>
+	<rect x="911.185" y="242.427" fill="none" width="125.554" height="15.85"/>
+	<text transform="matrix(1 0 0 1 911.1846 248.4297)" font-family="'ProximaNova-Bold'" font-size="9">Assigning variables</text>
+	<rect x="911.185" y="286.937" fill="none" width="88.266" height="12.012"/>
+	<text transform="matrix(1 0 0 1 911.1846 294.9404)" font-family="'ProximaNova-Bold'" font-size="12">Other Tracks</text>
+	<rect x="911.185" y="304.774" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 911.1846 310.4863)" font-family="'ProximaNova-Bold'" font-size="8.564">HTML</text>
+	<rect x="911.185" y="318.882" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 911.1846 324.5938)" font-family="'ProximaNova-Bold'" font-size="8.564">CSS</text>
+	<rect x="911.185" y="332.455" fill="none" width="107.524" height="13.573"/>
+	<text transform="matrix(1 0 0 1 911.1846 338.167)" font-family="'ProximaNova-Bold'" font-size="8.564">Beginner jQuery</text>
+	<rect x="911.185" y="171.194" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 911.1846 176.5303)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<rect x="1173.918" y="165.087" fill="none" width="111.816" height="20.214"/>
+	<text transform="matrix(1 0 0 1 1173.918 170.4229)"><tspan x="0" y="0" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">Track start/end: 2:00pm, 8 Oct </tspan><tspan x="0" y="8.884" fill="#A7A9AC" font-family="'ProximaNova-Regular'" font-size="8">12 to 2:00pm, 12 Oct 12</tspan></text>
+	<g>
+		<path fill="#A7A9AC" d="M1045.738,241.182c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+			S1043.165,241.182,1045.738,241.182 M1045.738,240.182c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+			s5.666-2.537,5.666-5.667S1048.867,240.182,1045.738,240.182L1045.738,240.182z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="1047.859,244.788 1045.738,246.909 1043.617,244.788 	"/>
+	<rect x="1172.591" y="191.5" fill="none" width="109.287" height="13.797"/>
+	<text transform="matrix(1 0 0 1 1172.5898 196.7246)" font-family="'ProximaNova-Bold'" font-size="7.834">JavaScript &amp; its uses</text>
+	<path fill="#A7A9AC" d="M1375.68,190.236c-2.804,0-5.076,2.273-5.076,5.077c0,2.805,2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.272,5.078-5.077C1380.758,192.51,1378.485,190.236,1375.68,190.236z M1374.643,197.497l-1.875-1.876l0.615-0.615
+		l1.26,1.261l2.831-2.83l0.615,0.615L1374.643,197.497z"/>
+	<path fill="#A7A9AC" d="M1375.68,208.464c-2.804,0-5.076,2.272-5.076,5.077s2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.272,5.078-5.077S1378.485,208.464,1375.68,208.464z M1374.643,215.725l-1.875-1.876l0.615-0.615l1.26,1.261
+		l2.831-2.83l0.615,0.615L1374.643,215.725z"/>
+	<path fill="#A7A9AC" d="M1375.68,225.977c-2.804,0-5.076,2.272-5.076,5.077c0,2.804,2.272,5.077,5.076,5.077
+		c2.806,0,5.078-2.273,5.078-5.077C1380.758,228.249,1378.485,225.977,1375.68,225.977z M1374.643,233.237l-1.875-1.876l0.615-0.615
+		l1.26,1.26l2.831-2.829l0.615,0.615L1374.643,233.237z"/>
+	<rect x="1172.591" y="210.692" fill="none" width="109.287" height="13.796"/>
+	<text transform="matrix(1 0 0 1 1172.5898 215.917)" font-family="'ProximaNova-Bold'" font-size="7.834">Client side vs. Server side</text>
+	<rect x="1172.591" y="228.075" fill="none" width="109.287" height="13.796"/>
+	<text transform="matrix(1 0 0 1 1172.5898 233.2998)" font-family="'ProximaNova-Bold'" font-size="7.834">Assigning variables</text>
+	<g>
+		<path fill="#A7A9AC" d="M1391.348,191.235c2.168,0,3.932,1.765,3.932,3.933c0,2.169-1.764,3.934-3.932,3.934
+			s-3.932-1.765-3.932-3.934C1387.416,193,1389.18,191.235,1391.348,191.235 M1391.348,190.235c-2.724,0-4.932,2.208-4.932,4.933
+			s2.208,4.934,4.932,4.934s4.932-2.209,4.932-4.934S1394.071,190.235,1391.348,190.235L1391.348,190.235z"/>
+	</g>
+	<g>
+		<path fill="#A7A9AC" d="M1391.348,209.608c2.168,0,3.932,1.765,3.932,3.933s-1.764,3.933-3.932,3.933s-3.932-1.765-3.932-3.933
+			S1389.18,209.608,1391.348,209.608 M1391.348,208.608c-2.724,0-4.932,2.208-4.932,4.933s2.208,4.933,4.932,4.933
+			s4.932-2.208,4.932-4.933S1394.071,208.608,1391.348,208.608L1391.348,208.608z"/>
+	</g>
+	<g>
+		<path fill="#A7A9AC" d="M1391.348,227.121c2.168,0,3.932,1.764,3.932,3.933s-1.764,3.933-3.932,3.933s-3.932-1.764-3.932-3.933
+			S1389.18,227.121,1391.348,227.121 M1391.348,226.121c-2.724,0-4.932,2.208-4.932,4.933c0,2.724,2.208,4.933,4.932,4.933
+			s4.932-2.209,4.932-4.933C1396.279,228.329,1394.071,226.121,1391.348,226.121L1391.348,226.121z"/>
+	</g>
+	<polygon fill="#A7A9AC" points="1393.194,230.131 1391.348,231.977 1389.501,230.131 	"/>
+	<g>
+		<g>
+			<path fill="#A7A9AC" d="M1045.738,199.955c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+				S1043.165,199.955,1045.738,199.955 M1045.738,198.955c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+				s5.666-2.537,5.666-5.667S1048.867,198.955,1045.738,198.955L1045.738,198.955z"/>
+		</g>
+		<path fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" d="M1048.254,206.072
+			c-0.531,1.092-1.594,1.645-2.516,1.645s-1.984-0.553-2.516-1.645"/>
+		<circle fill="#A7A9AC" cx="1043.888" cy="203.226" r="0.836"/>
+		<circle fill="#A7A9AC" cx="1047.588" cy="203.226" r="0.836"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#A7A9AC" d="M1045.738,260.276c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+				S1043.165,260.276,1045.738,260.276 M1045.738,259.276c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+				s5.666-2.537,5.666-5.667S1048.867,259.276,1045.738,259.276L1045.738,259.276z"/>
+		</g>
+		<path fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" d="M1048.254,266.394
+			c-0.531,1.092-1.594,1.645-2.516,1.645s-1.984-0.553-2.516-1.645"/>
+		<circle fill="#A7A9AC" cx="1043.888" cy="263.547" r="0.836"/>
+		<circle fill="#A7A9AC" cx="1047.588" cy="263.547" r="0.836"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#A7A9AC" d="M1045.738,291.551c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+				S1043.165,291.551,1045.738,291.551 M1045.738,290.551c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+				s5.666-2.537,5.666-5.667S1048.867,290.551,1045.738,290.551L1045.738,290.551z"/>
+		</g>
+		<path fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" d="M1043.223,298.49
+			c0.531-1.092,1.594-1.645,2.516-1.645s1.984,0.553,2.516,1.645"/>
+		<circle fill="#A7A9AC" cx="1043.888" cy="294.821" r="0.836"/>
+		<circle fill="#A7A9AC" cx="1047.588" cy="294.821" r="0.836"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#A7A9AC" d="M1045.738,221.062c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+				S1043.165,221.062,1045.738,221.062 M1045.738,220.062c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+				s5.666-2.537,5.666-5.667S1048.867,220.062,1045.738,220.062L1045.738,220.062z"/>
+		</g>
+		<circle fill="#A7A9AC" cx="1043.888" cy="224.333" r="0.836"/>
+		<circle fill="#A7A9AC" cx="1047.588" cy="224.333" r="0.836"/>
+		
+			<line fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" x1="1043.223" y1="227.496" x2="1048.253" y2="227.496"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M1045.738,285.738c-2.849,0-5.166-2.318-5.166-5.167s2.317-5.167,5.166-5.167s5.166,2.318,5.166,5.167
+			S1048.587,285.738,1045.738,285.738z"/>
+		<path fill="#A7A9AC" d="M1045.738,275.904c2.573,0,4.666,2.094,4.666,4.667s-2.093,4.667-4.666,4.667s-4.666-2.094-4.666-4.667
+			S1043.165,275.904,1045.738,275.904 M1045.738,274.904c-3.129,0-5.666,2.537-5.666,5.667s2.537,5.667,5.666,5.667
+			s5.666-2.537,5.666-5.667S1048.867,274.904,1045.738,274.904L1045.738,274.904z"/>
+	</g>
+	<circle fill="#A7A9AC" cx="1043.888" cy="279.175" r="0.836"/>
+	<circle fill="#A7A9AC" cx="1047.588" cy="279.175" r="0.836"/>
+	
+		<line fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" x1="1043.223" y1="282.338" x2="1048.253" y2="282.338"/>
+	<g>
+		<path fill="none" stroke="#D1D3D4" stroke-miterlimit="10" d="M1055,300.774c0,2.2-1.8,4-4,4h-10.262c-2.2,0-4-1.8-4-4v-60.042
+			c0-2.2,1.8-4,4-4H1051c2.2,0,4,1.8,4,4V300.774z"/>
+	</g>
+	<line fill="none" stroke="#D1D3D4" stroke-miterlimit="10" x1="1055" y1="255.482" x2="1036.738" y2="255.482"/>
+	<rect x="1384.063" y="253.068" fill="#E6E7E8" width="14.667" height="12.549"/>
+	<g>
+		<g>
+			<path fill="#A7A9AC" d="M1391.291,243.361c1.958,0,3.551,1.594,3.551,3.552s-1.593,3.552-3.551,3.552
+				c-1.957,0-3.55-1.594-3.55-3.552S1389.334,243.361,1391.291,243.361 M1391.291,242.361c-2.512,0-4.55,2.038-4.55,4.552
+				s2.038,4.552,4.55,4.552c2.514,0,4.551-2.038,4.551-4.552S1393.805,242.361,1391.291,242.361L1391.291,242.361z"/>
+		</g>
+		<path fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" d="M1393.312,248.078
+			c-0.428,0.877-1.28,1.32-2.021,1.32c-0.74,0-1.593-0.443-2.02-1.32"/>
+		<circle fill="#A7A9AC" cx="1389.806" cy="245.791" r="0.672"/>
+		<circle fill="#A7A9AC" cx="1392.777" cy="245.791" r="0.672"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#A7A9AC" d="M1391.291,268.479c1.958,0,3.551,1.594,3.551,3.552s-1.593,3.552-3.551,3.552
+				c-1.957,0-3.55-1.594-3.55-3.552S1389.334,268.479,1391.291,268.479 M1391.291,267.479c-2.512,0-4.55,2.038-4.55,4.552
+				s2.038,4.552,4.55,4.552c2.514,0,4.551-2.038,4.551-4.552S1393.805,267.479,1391.291,267.479L1391.291,267.479z"/>
+		</g>
+		<path fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" d="M1389.271,273.855
+			c0.427-0.877,1.279-1.32,2.02-1.32c0.741,0,1.594,0.443,2.021,1.32"/>
+		<circle fill="#A7A9AC" cx="1389.806" cy="270.908" r="0.672"/>
+		<circle fill="#A7A9AC" cx="1392.777" cy="270.908" r="0.672"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M1391.291,263.516c-2.233,0-4.05-1.817-4.05-4.052c0-2.233,1.816-4.051,4.05-4.051
+			s4.051,1.817,4.051,4.051C1395.342,261.698,1393.524,263.516,1391.291,263.516z"/>
+		<path fill="#A7A9AC" d="M1391.291,255.913c1.958,0,3.551,1.593,3.551,3.551s-1.593,3.552-3.551,3.552
+			c-1.957,0-3.55-1.594-3.55-3.552S1389.334,255.913,1391.291,255.913 M1391.291,254.913c-2.512,0-4.55,2.037-4.55,4.551
+			s2.038,4.552,4.55,4.552c2.514,0,4.551-2.038,4.551-4.552S1393.805,254.913,1391.291,254.913L1391.291,254.913z"/>
+	</g>
+	<circle fill="#A7A9AC" cx="1389.806" cy="258.343" r="0.672"/>
+	<circle fill="#A7A9AC" cx="1392.777" cy="258.343" r="0.672"/>
+	
+		<line fill="none" stroke="#A7A9AC" stroke-linecap="round" stroke-miterlimit="10" x1="1389.271" y1="260.883" x2="1393.312" y2="260.883"/>
+	<g>
+		<path fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" d="M1398.73,274.902c0,2.2-1.8,4-4,4h-6.667
+			c-2.2,0-4-1.8-4-4v-46.646c0-2.2,1.8-4,4-4h6.667c2.2,0,4,1.8,4,4V274.902z"/>
+	</g>
+	
+		<line fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-miterlimit="10" x1="1398.73" y1="239.314" x2="1384.063" y2="239.314"/>
+	<rect x="-829.782" y="757.499" fill="#D1D3D4" width="143.782" height="481"/>
+	<circle fill="#FFFFFF" cx="-797.891" cy="791.499" r="20"/>
+	<circle fill="#FFFFFF" cx="-803.391" cy="1163.999" r="14.5"/>
+	<rect x="-764" y="785.499" fill="none" width="108" height="38"/>
+	<text transform="matrix(1 0 0 1 -764 798.1719)" fill="#FFFFFF" font-family="'ProximaNova-Bold'" font-size="19">CURRI</text>
+	<rect x="-777.891" y="856.39" fill="none" width="108" height="38"/>
+	<text transform="matrix(1 0 0 1 -777.8911 868.7812)" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="16">Classrooms</text>
+	<rect x="-777.891" y="907.39" fill="none" width="108" height="38"/>
+	<text transform="matrix(1 0 0 1 -777.8911 919.7812)" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="16">Tracks</text>
+	<rect x="-777.891" y="956.499" fill="none" width="108" height="38"/>
+	<text transform="matrix(1 0 0 1 -777.8911 968.8906)" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="16">Analytics</text>
+	<rect x="-777.891" y="1156.499" fill="none" width="108" height="38"/>
+	<text transform="matrix(1 0 0 1 -777.8911 1168.8906)" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="16">Profile</text>
+	<rect x="-777.891" y="1200.499" fill="none" width="108" height="38"/>
+	<text transform="matrix(1 0 0 1 -777.8911 1212.8906)" fill="#FFFFFF" font-family="'SourceSansPro-Regular'" font-size="16">Collapse</text>
+	<rect x="-815.891" y="851.499" fill="#FFFFFF" width="24.891" height="24.891"/>
+	<rect x="-815.891" y="901.499" fill="#FFFFFF" width="24.891" height="24.891"/>
+	<rect x="-815.891" y="951.499" fill="#FFFFFF" width="24.891" height="24.891"/>
+	<rect x="-835" y="825.46" fill="#FFFFFF" width="152" height="1.328"/>
+	<g>
+		<path fill="#FFFFFF" d="M-789.891,1207.999c0,1.237-1.35,2.25-3,2.25h-21c-1.65,0-3-1.013-3-2.25s1.35-2.25,3-2.25h21
+			C-791.241,1205.749-789.891,1206.762-789.891,1207.999z"/>
+	</g>
+	
+		<polyline fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		-805.891,1216.999 -814.891,1207.999 -805.891,1198.999 	"/>
+	<g>
+		<path fill="#BCBEC0" d="M-110.679,791.886v-1.548c0-3.951-2.55-7.151-5.695-7.151c-3.145,0-5.694,3.2-5.694,7.151v1.548
+			c0,3.095-1.997,5.602-4.461,5.602h4.461h5.694h5.695h4.461C-108.682,797.487-110.679,794.98-110.679,791.886z"/>
+		<path fill="#BCBEC0" d="M-116.374,799.812c0.97,0,1.757-0.787,1.757-1.757h-3.513
+			C-118.13,799.025-117.344,799.812-116.374,799.812z"/>
+	</g>
+	<path fill="none" stroke="#BCBEC0" stroke-miterlimit="10" d="M-197.078,797.337c-3.866,0-7-3.134-7-7s3.134-7,7-7h32v14H-197.078z
+		"/>
+	<circle fill="#D1D3D4" stroke="#BCBEC0" stroke-miterlimit="10" cx="-165.078" cy="790.337" r="7"/>
+	<rect x="-198.623" y="786.499" fill="none" width="51.089" height="18.667"/>
+	<text transform="matrix(1 0 0 1 -198.623 793.6191)" font-family="'SourceSansPro-Regular'" font-size="10">HELP</text>
+	<g>
+		<circle fill="#F7941E" cx="-217.078" cy="789.972" r="11"/>
+		<rect x="-219.578" y="786.026" fill="none" width="15.5" height="18"/>
+		<text transform="matrix(1 0 0 1 -219.5781 793.0361)" fill="#FFFFFF" font-family="'SourceSansPro-Bold'" font-size="10">5</text>
+	</g>
+	<g>
+		<circle fill="#F7941E" cx="-98.412" cy="788.81" r="11"/>
+		<rect x="-100.912" y="784.864" fill="none" width="15.5" height="18"/>
+		<text transform="matrix(1 0 0 1 -100.9121 791.874)" fill="#FFFFFF" font-family="'SourceSansPro-Bold'" font-size="10">6</text>
+	</g>
+	<g>
+		<circle fill="#F7941E" cx="-730.282" cy="905.862" r="11"/>
+		<rect x="-732.782" y="901.917" fill="none" width="15.5" height="18"/>
+		<text transform="matrix(1 0 0 1 -732.7822 908.9268)" fill="#FFFFFF" font-family="'SourceSansPro-Bold'" font-size="10">2</text>
+	</g>
+	<g>
+		<circle fill="#F7941E" cx="-709.782" cy="956.39" r="11"/>
+		<rect x="-712.282" y="952.444" fill="none" width="15.5" height="18"/>
+		<text transform="matrix(1 0 0 1 -712.2822 959.4541)" fill="#FFFFFF" font-family="'SourceSansPro-Bold'" font-size="10">3</text>
+	</g>
+	<g>
+		<circle fill="#F7941E" cx="-724.891" cy="1154.972" r="11"/>
+		<rect x="-727.391" y="1151.026" fill="none" width="15.5" height="18"/>
+		<text transform="matrix(1 0 0 1 -727.3911 1158.0361)" fill="#FFFFFF" font-family="'SourceSansPro-Bold'" font-size="10">4</text>
+	</g>
+	<g>
+		<circle fill="#F7941E" cx="-706.282" cy="849.972" r="11"/>
+		<rect x="-708.782" y="846.026" fill="none" width="15.5" height="18"/>
+		<text transform="matrix(1 0 0 1 -708.7822 853.0361)" fill="#FFFFFF" font-family="'SourceSansPro-Bold'" font-size="10">1</text>
+	</g>
+	<rect x="-596" y="849.972" fill="none" stroke="#000000" stroke-miterlimit="10" width="453.782" height="305"/>
+	<rect x="-596" y="849.972" fill="none" stroke="#000000" stroke-miterlimit="10" width="453.782" height="39.527"/>
+	<rect x="-314" y="849.972" fill="none" stroke="#000000" stroke-miterlimit="10" width="85.922" height="305"/>
+	<rect x="-580.782" y="865.89" fill="none" width="169" height="21"/>
+	<text transform="matrix(1 0 0 1 -580.7822 875.7031)" font-family="'SourceSansPro-Bold'" font-size="14">Link Visibility</text>
+	<rect x="-301.578" y="865.89" fill="none" width="62.143" height="21"/>
+	<text transform="matrix(1 0 0 1 -301.5781 875.7031)"><tspan x="0" y="0" font-family="'SourceSansPro-Bold'" font-size="14">Teach</tspan><tspan x="37.045" y="0" font-family="'SourceSansPro-Bold'" font-size="14">-</tspan></text>
+	<rect x="-215.649" y="865.89" fill="none" width="62.143" height="21"/>
+	<text transform="matrix(1 0 0 1 -215.6494 875.7031)"><tspan x="0" y="0" font-family="'SourceSansPro-Bold'" font-size="14">Stu</tspan><tspan x="21.098" y="0" font-family="'SourceSansPro-Bold'" font-size="14">-</tspan></text>
+	<rect x="-583" y="906.499" fill="none" width="231.74" height="45.945"/>
+	<text transform="matrix(1 0 0 1 -583 916.4668)"><tspan x="0" y="0" font-family="'SourceSansPro-Regular'" font-size="14">1. Only after clicking on a classroom </tspan><tspan x="0" y="16.8" font-family="'SourceSansPro-Regular'" font-size="14">(/classrooms/#...) onwards</tspan></text>
+	<rect x="-583" y="955.526" fill="none" width="231.74" height="45.945"/>
+	<text transform="matrix(1 0 0 1 -583 965.4941)"><tspan x="0" y="0" font-family="'SourceSansPro-Regular'" font-size="14">2. Only after clicking on a track (/clas</tspan><tspan x="219.938" y="0" font-family="'SourceSansPro-Regular'" font-size="14">-</tspan><tspan x="0" y="16.8" font-family="'SourceSansPro-Regular'" font-size="14">rooms/#/tracks/#/...) onwards</tspan></text>
+	<rect x="-583" y="1008.526" fill="none" width="231.74" height="45.945"/>
+	<text transform="matrix(1 0 0 1 -583 1018.4941)"><tspan x="0" y="0" font-family="'SourceSansPro-Regular'" font-size="14">3. Only after clicking on a track (/clas</tspan><tspan x="219.938" y="0" font-family="'SourceSansPro-Regular'" font-size="14">-</tspan><tspan x="0" y="16.8" font-family="'SourceSansPro-Regular'" font-size="14">rooms/#/tracks/#/...) onwards</tspan></text>
+	<rect x="-583" y="1054.472" fill="none" width="231.74" height="22.973"/>
+	<text transform="matrix(1 0 0 1 -583 1064.4395)" font-family="'SourceSansPro-Regular'" font-size="14">4. Always</text>
+	<rect x="-583.87" y="1088.472" fill="none" width="231.74" height="22.973"/>
+	<text transform="matrix(1 0 0 1 -583.8701 1098.4395)" font-family="'SourceSansPro-Regular'" font-size="14">5. Always (help toggle)</text>
+	<rect x="-583.87" y="1120.999" fill="none" width="231.74" height="22.973"/>
+	<text transform="matrix(1 0 0 1 -583.8701 1130.9668)" font-family="'SourceSansPro-Regular'" font-size="14">6. Always (notifications)</text>
+	<rect x="-274.088" y="908.431" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -274.0879 918.3984)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-189.262" y="908.431" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -189.2617 918.3984)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-274.088" y="955.91" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -274.0879 965.8779)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-189.262" y="955.91" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -189.2617 965.8779)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-274.088" y="1008.526" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -274.0879 1018.4941)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-189.262" y="1008.526" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -189.2617 1018.4941)" font-family="'SourceSansPro-Regular'" font-size="14">N</text>
+	<rect x="-274.088" y="1051.424" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -274.0879 1061.3916)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-189.262" y="1051.424" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -189.2617 1061.3916)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-274.088" y="1087.492" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -274.0879 1097.46)" font-family="'SourceSansPro-Regular'" font-size="14">N</text>
+	<rect x="-189.262" y="1087.492" fill="none" width="34.088" height="29.068"/>
+	<text transform="matrix(1 0 0 1 -189.2617 1097.46)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-274.088" y="1120.999" fill="none" width="34.088" height="29.069"/>
+	<text transform="matrix(1 0 0 1 -274.0879 1130.9668)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+	<rect x="-189.262" y="1120.999" fill="none" width="34.088" height="29.069"/>
+	<text transform="matrix(1 0 0 1 -189.2617 1130.9668)" font-family="'SourceSansPro-Regular'" font-size="14">Y</text>
+</g>
+</svg>
